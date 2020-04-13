@@ -1,0 +1,88 @@
+﻿{
+  "audioPath": "",
+  "subtitle": "The Dancing Donkey",
+  "title": "El burro bailarín",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.36,
+            "end": 1.18,
+            "text": "El burro",
+            "hover": ""
+          },
+          {
+            "start": 1.18,
+            "end": 2.58,
+            "text": "bailarín.",
+            "hover": ""
+          }
+        ],
+        "imageFilename": "burro.png"
+      },
+      "lects": [
+        {
+          "start": 2.64,
+          "end": 3.22,
+          "text": "Hola.",
+          "hover": ""
+        },
+        {
+          "start": 3.6,
+          "end": 4.12,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 4.12,
+          "end": 4.98,
+          "text": "un burro.",
+          "hover": ""
+        },
+        {
+          "start": 5.42,
+          "end": 6.36,
+          "text": "Me llamo",
+          "hover": ""
+        },
+        {
+          "start": 6.36,
+          "end": 7.04,
+          "text": "Beto.",
+          "hover": ""
+        },
+        {
+          "start": 7.7,
+          "end": 8.36,
+          "text": "Tengo",
+          "hover": ""
+        },
+        {
+          "start": 8.4,
+          "end": 8.86,
+          "text": "botas.",
+          "hover": ""
+        },
+        {
+          "start": 9.46,
+          "end": 9.92,
+          "text": "Tengo",
+          "hover": ""
+        },
+        {
+          "start": 9.92,
+          "end": 10.52,
+          "text": "botas",
+          "hover": ""
+        },
+        {
+          "start": 10.68,
+          "end": 11.60,
+          "text": "para bailar.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

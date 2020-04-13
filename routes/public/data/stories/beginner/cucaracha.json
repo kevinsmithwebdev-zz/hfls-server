@@ -1,0 +1,118 @@
+{
+  "audioPath": "",
+  "subtitle": "The Red Cockroach",
+  "title": "La cucaracha colorada",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.380,
+            "end": 0.640,
+            "text": "La",
+            "hover": ""
+          },
+          {
+            "start": 0.640,
+            "end": 1.480,
+            "text": "cucaracha",
+            "hover": ""
+          },
+          {
+            "start": 1.480,
+            "end": 2.140,
+            "text": "colorada",
+            "hover": ""
+          }
+        ],
+        "imagePath": "cucracha.png"
+      },
+      "lects": [
+        {
+          "start": 2.98,
+          "end": 3.6,
+          "text": "Hola.",
+          "hover": ""
+        },
+        {
+          "start": 3.7,
+          "end": 4,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 4,
+          "end": 4.115,
+          "text": "la",
+          "hover": ""
+        },
+        {
+          "start": 4.115,
+          "end": 4.14,
+          "text": "cucaracha",
+          "hover": ""
+        },
+        {
+          "start": 4.84,
+          "end": 5.355,
+          "text": "Camila.",
+          "hover": ""
+        },
+        {
+          "start": 6.135,
+          "end": 6.185,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 6.185,
+          "end": 6.4,
+          "text": "colorada.",
+          "hover": ""
+        },
+        {
+          "start": 7.93,
+          "end": 8.325,
+          "text": "Como",
+          "hover": ""
+        },
+        {
+          "start": 8.32,
+          "end": 8.705,
+          "text": "muchos",
+          "hover": ""
+        },
+        {
+          "start": 8.755,
+          "end": 9.565,
+          "text": "caramelos.",
+          "hover": ""
+        },
+        {
+          "start": 10.117,
+          "end": 10.297,
+          "text": "Mi",
+          "hover": ""
+        },
+        {
+          "start": 10.29,
+          "end": 10.754,
+          "text": "mamá",
+          "hover": ""
+        },
+        {
+          "start": 10.94,
+          "end": 11.742,
+          "text": "no está",
+          "hover": ""
+        },
+        {
+          "start": 11.742,
+          "end": 12.448,
+          "text": "contenta.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}
