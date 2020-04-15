@@ -5,8 +5,6 @@ const router = express.Router();
 
 const stories = getStories();
 
-console.log('stories', stories);
-
 const getIsApiKeyGood = key =>
   key && key.toLowerCase() === process.env.API_KEY.toLowerCase();
 

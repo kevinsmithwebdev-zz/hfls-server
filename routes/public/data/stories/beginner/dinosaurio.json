@@ -1,0 +1,106 @@
+{
+  "audioPath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/dinosaurio.mp3",
+  "subtitle": "The Tooth of Dino",
+  "title": "El diente de Dino",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.602,
+            "end": 0.814,
+            "text": "El",
+            "hover": ""
+          },
+          {
+            "start": 0.811,
+            "end": 1.214,
+            "text": "diente",
+            "hover": ""
+          },
+          {
+            "start": 1.226,
+            "end": 1.428,
+            "text": "de",
+            "hover": ""
+          },
+          {
+            "start": 1.42,
+            "end": 1.797,
+            "text": "Dino",
+            "hover": ""
+          }
+        ],
+        "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/dinosaurio.png"
+      },
+      "lects": [
+        {
+          "start": 2.47,
+          "end": 2.911,
+          "text": "Hola.",
+          "hover": ""
+        },
+        {
+          "start": 3.415,
+          "end": 3.621,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 3.62,
+          "end": 3.998,
+          "text": "Dino,",
+          "hover": ""
+        },
+        {
+          "start": 4.502,
+          "end": 4.662,
+          "text": "el",
+          "hover": ""
+        },
+        {
+          "start": 4.66,
+          "end": 5.562,
+          "text": "dinosaurio.",
+          "hover": ""
+        },
+        {
+          "start": 6.065,
+          "end": 6.644,
+          "text": "Duermo",
+          "hover": ""
+        },
+        {
+          "start": 6.64,
+          "end": 7.146,
+          "text": "de día.",
+          "hover": ""
+        },
+        {
+          "start": 7.887,
+          "end": 8.775,
+          "text": "En la noche",
+          "hover": ""
+        },
+        {
+          "start": 8.77,
+          "end": 9.825,
+          "text": "me duele diente.",
+          "hover": ""
+        },
+        {
+          "start": 10.367,
+          "end": 10.764,
+          "text": "¡Quiero",
+          "hover": ""
+        },
+        {
+          "start": 10.764,
+          "end": 12.76,
+          "text": "un dentista!",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}
