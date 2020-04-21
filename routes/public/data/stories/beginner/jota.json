@@ -1,0 +1,130 @@
+{
+  "audioPath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/jota.mp3",
+  "subtitle": "Maruja the Witch",
+  "title": "La bruja Maruja",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.635,
+            "end": 0.928,
+            "text": "La",
+            "hover": ""
+          },
+          {
+            "start": 0.938,
+            "end": 1.573,
+            "text": "bruja",
+            "hover": ""
+          },
+          {
+            "start": 1.653,
+            "end": 2.435,
+            "text": "Maruja",
+            "hover": ""
+          }
+        ],
+        "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/jota.png"
+      },
+      "lects": [
+        {
+          "start": 3.397,
+          "end": 4.336,
+          "text": "Buenas noches.",
+          "hover": ""
+        },
+        {
+          "start": 4.875,
+          "end": 5.616,
+          "text": "Me llamo",
+          "hover": ""
+        },
+        {
+          "start": 5.768,
+          "end": 6.424,
+          "text": "Maruja",
+          "hover": ""
+        },
+        {
+          "start": 7.077,
+          "end": 7.294,
+          "text": "y",
+          "hover": ""
+        },
+        {
+          "start": 7.294,
+          "end": 7.79,
+          "text": "soy",
+          "hover": ""
+        },
+        {
+          "start": 7.99,
+          "end": 8.484,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 8.528,
+          "end": 9.186,
+          "text": "bruja.",
+          "hover": ""
+        },
+        {
+          "start": 10.261,
+          "end": 10.961,
+          "text": "Me gusta",
+          "hover": ""
+        },
+        {
+          "start": 10.96,
+          "end": 11.51,
+          "text": "viajar.",
+          "hover": ""
+        },
+        {
+          "start": 12.537,
+          "end": 13.464,
+          "text": "Me gusta",
+          "hover": ""
+        },
+        {
+          "start": 13.493,
+          "end": 13.934,
+          "text": "mi",
+          "hover": ""
+        },
+        {
+          "start": 13.93,
+          "end": 14.889,
+          "text": "equipaje.",
+          "hover": ""
+        },
+        {
+          "start": 15.787,
+          "end": 16.705,
+          "text": "Me gusta",
+          "hover": ""
+        },
+        {
+          "start": 16.7,
+          "end": 17.263,
+          "text": "beber",
+          "hover": ""
+        },
+        {
+          "start": 17.374,
+          "end": 17.668,
+          "text": "mi",
+          "hover": ""
+        },
+        {
+          "start": 17.66,
+          "end": 18.306,
+          "text": "brebaje.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

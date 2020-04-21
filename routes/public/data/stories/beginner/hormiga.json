@@ -1,0 +1,106 @@
+{
+  "audioPath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/hormiga.mp3",
+  "subtitle": "La hormiga Hada",
+  "title": "Hada the Ant",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.772,
+            "end": 1.038,
+            "text": "La",
+            "hover": ""
+          },
+          {
+            "start": 1.03,
+            "end": 1.792,
+            "text": "hormiga",
+            "hover": ""
+          },
+          {
+            "start": 1.877,
+            "end": 2.29,
+            "text": "Hada",
+            "hover": ""
+          }
+        ],
+        "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/hormiga.png"
+      },
+      "lects": [
+        {
+          "start": 3.16,
+          "end": 4.269,
+          "text": "Buenos tardes.",
+          "hover": ""
+        },
+        {
+          "start": 4.501,
+          "end": 4.798,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 4.822,
+          "end": 4.938,
+          "text": "la",
+          "hover": ""
+        },
+        {
+          "start": 4.981,
+          "end": 5.48,
+          "text": "hormiga",
+          "hover": ""
+        },
+        {
+          "start": 5.48,
+          "end": 5.872,
+          "text": "Hada.",
+          "hover": ""
+        },
+        {
+          "start": 6.636,
+          "end": 7.193,
+          "text": "Como",
+          "hover": ""
+        },
+        {
+          "start": 7.19,
+          "end": 7.854,
+          "text": "hojas.",
+          "hover": ""
+        },
+        {
+          "start": 8.604,
+          "end": 9.219,
+          "text": "Como",
+          "hover": ""
+        },
+        {
+          "start": 9.21,
+          "end": 9.849,
+          "text": "helado.",
+          "hover": ""
+        },
+        {
+          "start": 10.496,
+          "end": 11.42,
+          "text": "Después",
+          "hover": ""
+        },
+        {
+          "start": 11.719,
+          "end": 12.595,
+          "text": "duermo",
+          "hover": ""
+        },
+        {
+          "start": 12.595,
+          "end": 13.09,
+          "text": "en la hamaca.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

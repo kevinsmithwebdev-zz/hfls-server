@@ -1,0 +1,202 @@
+{
+  "audioPath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/galletas.mp3",
+  "subtitle": "How many cookies do you want?",
+  "title": "¿Cuántas galletas quieres?",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.693,
+            "end": 1.111,
+            "text": "¿Cuántas",
+            "hover": ""
+          },
+          {
+            "start": 1.11,
+            "end": 1.67,
+            "text": "galletas",
+            "hover": ""
+          },
+          {
+            "start": 1.76,
+            "end": 2.303,
+            "text": "quieres?",
+            "hover": ""
+          }
+        ],
+        "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/galletas.png"
+      },
+      "lects": [
+        {
+          "start": 3.575,
+          "end": 4.08,
+          "text": "«Quiero",
+          "hover": ""
+        },
+        {
+          "start": 4.08,
+          "end": 4.512,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 4.51,
+          "end": 4.986,
+          "text": "galleta»,",
+          "hover": ""
+        },
+        {
+          "start": 5.658,
+          "end": 6.328,
+          "text": "dice",
+          "hover": ""
+        },
+        {
+          "start": 6.499,
+          "end": 6.7,
+          "text": "el",
+          "hover": ""
+        },
+        {
+          "start": 6.7,
+          "end": 7.057,
+          "text": "ganso.",
+          "hover": ""
+        }
+      ]
+    },
+    {
+      "header": {
+        "lects": [],
+        "imagePath": ""
+      },
+      "lects": [
+        {
+          "start": 8.071,
+          "end": 8.527,
+          "text": "«Quiero",
+          "hover": ""
+        },
+        {
+          "start": 8.52,
+          "end": 8.958,
+          "text": "dos",
+          "hover": ""
+        },
+        {
+          "start": 8.999,
+          "end": 9.791,
+          "text": "galletas»,",
+          "hover": ""
+        },
+        {
+          "start": 10.266,
+          "end": 10.937,
+          "text": "dice",
+          "hover": ""
+        },
+        {
+          "start": 11.088,
+          "end": 11.317,
+          "text": "el",
+          "hover": ""
+        },
+        {
+          "start": 11.333,
+          "end": 11.764,
+          "text": "gallo.",
+          "hover": ""
+        }
+      ]
+    },
+    {
+      "header": {
+        "lects": [],
+        "imagePath": ""
+      },
+      "lects": [
+        {
+          "start": 12.44,
+          "end": 12.974,
+          "text": "«Quiero",
+          "hover": ""
+        },
+        {
+          "start": 12.974,
+          "end": 13.049,
+          "text": "tres",
+          "hover": ""
+        },
+        {
+          "start": 13.426,
+          "end": 14.249,
+          "text": "galletas»,",
+          "hover": ""
+        },
+        {
+          "start": 14.669,
+          "end": 15.32,
+          "text": "dice",
+          "hover": ""
+        },
+        {
+          "start": 15.5,
+          "end": 15.689,
+          "text": "la",
+          "hover": ""
+        },
+        {
+          "start": 15.711,
+          "end": 16.365,
+          "text": "gallina.",
+          "hover": ""
+        }
+      ]
+    },
+    {
+      "header": {
+        "lects": [],
+        "imagePath": ""
+      },
+      "lects": [
+        {
+          "start": 17.038,
+          "end": 17.485,
+          "text": "«Quiero",
+          "hover": ""
+        },
+        {
+          "start": 17.585,
+          "end": 18.192,
+          "text": "cuatro",
+          "hover": ""
+        },
+        {
+          "start": 18.19,
+          "end": 19.056,
+          "text": "galletas»,",
+          "hover": ""
+        },
+        {
+          "start": 19.502,
+          "end": 20.099,
+          "text": "dice",
+          "hover": ""
+        },
+        {
+          "start": 20.115,
+          "end": 20.354,
+          "text": "el",
+          "hover": ""
+        },
+        {
+          "start": 20.354,
+          "end": 22.34,
+          "text": "pingüino.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

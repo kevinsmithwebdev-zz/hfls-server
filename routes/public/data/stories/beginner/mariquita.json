@@ -1,0 +1,148 @@
+{
+  "audioPath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/mariquita.mp3",
+  "subtitle": "Mika the Ladybug",
+  "title": "La mariquita Mika",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.548,
+            "end": 0.891,
+            "text": "La",
+            "hover": ""
+          },
+          {
+            "start": 0.89,
+            "end": 1.751,
+            "text": "mariquita",
+            "hover": ""
+          },
+          {
+            "start": 1.794,
+            "end": 2.315,
+            "text": "Mika",
+            "hover": ""
+          }
+        ],
+        "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/mariquita.png"
+      },
+      "lects": [
+        {
+          "start": 3.066,
+          "end": 3.537,
+          "text": "Hola.",
+          "hover": ""
+        },
+        {
+          "start": 4.125,
+          "end": 4.607,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 4.6,
+          "end": 4.948,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 4.94,
+          "end": 5.893,
+          "text": "mariquita",
+          "hover": ""
+        },
+        {
+          "start": 6.192,
+          "end": 6.388,
+          "text": "y",
+          "hover": ""
+        },
+        {
+          "start": 6.38,
+          "end": 7.113,
+          "text": "me llamo",
+          "hover": ""
+        },
+        {
+          "start": 7.332,
+          "end": 7.854,
+          "text": "Mika.",
+          "hover": ""
+        },
+        {
+          "start": 8.912,
+          "end": 9.761,
+          "text": "Vuelo",
+          "hover": ""
+        },
+        {
+          "start": 9.988,
+          "end": 10.187,
+          "text": "a",
+          "hover": ""
+        },
+        {
+          "start": 10.18,
+          "end": 10.78,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 10.935,
+          "end": 11.97,
+          "text": "margarita.",
+          "hover": ""
+        },
+        {
+          "start": 12.69,
+          "end": 13.745,
+          "text": "Vuelo",
+          "hover": ""
+        },
+        {
+          "start": 13.941,
+          "end": 14.24,
+          "text": "a",
+          "hover": ""
+        },
+        {
+          "start": 14.24,
+          "end": 14.868,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 15.36,
+          "end": 16.279,
+          "text": "mesa.",
+          "hover": ""
+        },
+        {
+          "start": 16.971,
+          "end": 17.905,
+          "text": "Vuelo",
+          "hover": ""
+        },
+        {
+          "start": 18.359,
+          "end": 18.605,
+          "text": "a",
+          "hover": ""
+        },
+        {
+          "start": 18.654,
+          "end": 19.35,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 19.5,
+          "end": 20.515,
+          "text": "manzana.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

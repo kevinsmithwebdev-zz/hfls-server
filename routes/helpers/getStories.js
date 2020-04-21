@@ -12,9 +12,10 @@ const getStories = () => {
       const storyData = require(`${STORIES_FOLDER}/beginner/${story}.json`);
       storyData.audioPath = `${REMOTE_PATH_STUB}/${level}/${story}.mp3`;
       storyData.thumbnailPath = `${REMOTE_PATH_STUB}/${level}/${story}_tn.png`;
-      storyData.paragraphs.forEach((p, idx) =>
-        storyData.paragraphs[idx].header.imagePath = `${REMOTE_PATH_STUB}/${level}/${story}.png`,
-      );
+      // storyData.paragraphs.forEach((p, idx) =>
+      //   storyData.paragraphs[idx].header.imagePath = `${REMOTE_PATH_STUB}/${level}/${story}.png`,
+      // );
+      storyData.paragraphs[0].header.imagePath = `${REMOTE_PATH_STUB}/${level}/${story}.png`;
       return storyData;
     });
     finalStoriesData[level] = storyDataForLevel;

@@ -1,0 +1,136 @@
+{
+  "audioPath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/koala.mp3",
+  "subtitle": "Kevin the Koala",
+  "title": "La koala Kevin",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.909,
+            "end": 1.159,
+            "text": "El",
+            "hover": ""
+          },
+          {
+            "start": 1.15,
+            "end": 1.794,
+            "text": "koala",
+            "hover": ""
+          },
+          {
+            "start": 1.916,
+            "end": 2.564,
+            "text": "Kevin",
+            "hover": ""
+          }
+        ],
+        "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/koala.png"
+      },
+      "lects": [
+        {
+          "start": 3.626,
+          "end": 4.533,
+          "text": "Buenos días.",
+          "hover": ""
+        },
+        {
+          "start": 5.126,
+          "end": 5.818,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 5.962,
+          "end": 6.202,
+          "text": "el",
+          "hover": ""
+        },
+        {
+          "start": 6.2,
+          "end": 6.834,
+          "text": "koala",
+          "hover": ""
+        },
+        {
+          "start": 7.043,
+          "end": 7.678,
+          "text": "Kevin.",
+          "hover": ""
+        },
+        {
+          "start": 8.45,
+          "end": 9.103,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 9.1,
+          "end": 9.428,
+          "text": "un",
+          "hover": ""
+        },
+        {
+          "start": 9.42,
+          "end": 10.208,
+          "text": "koala",
+          "hover": ""
+        },
+        {
+          "start": 10.416,
+          "end": 11.449,
+          "text": "karateka.",
+          "hover": ""
+        },
+        {
+          "start": 12.55,
+          "end": 13.402,
+          "text": "También",
+          "hover": ""
+        },
+        {
+          "start": 13.9,
+          "end": 14.636,
+          "text": "toco",
+          "hover": ""
+        },
+        {
+          "start": 14.715,
+          "end": 15.13,
+          "text": "el",
+          "hover": ""
+        },
+        {
+          "start": 15.402,
+          "end": 16.24,
+          "text": "ukulele.",
+          "hover": ""
+        },
+        {
+          "start": 17.018,
+          "end": 18.244,
+          "text": "Me gustan",
+          "hover": ""
+        },
+        {
+          "start": 18.341,
+          "end": 19.191,
+          "text": "mucho",
+          "hover": ""
+        },
+        {
+          "start": 19.19,
+          "end": 19.573,
+          "text": "los",
+          "hover": ""
+        },
+        {
+          "start": 19.57,
+          "end": 20.293,
+          "text": "kiwis.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

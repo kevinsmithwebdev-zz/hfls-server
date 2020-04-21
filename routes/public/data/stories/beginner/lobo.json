@@ -1,0 +1,118 @@
+{
+  "audioPath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/lobo.mp3",
+  "subtitle": "The Wolf and the Moon",
+  "title": "El lobo y la luna",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.617,
+            "end": 0.946,
+            "text": "El",
+            "hover": ""
+          },
+          {
+            "start": 0.94,
+            "end": 1.485,
+            "text": "lobo",
+            "hover": ""
+          },
+          {
+            "start": 1.696,
+            "end": 1.853,
+            "text": "y",
+            "hover": ""
+          },
+          {
+            "start": 1.85,
+            "end": 1.993,
+            "text": "la",
+            "hover": ""
+          },
+          {
+            "start": 1.993,
+            "end": 2.49,
+            "text": "luna",
+            "hover": ""
+          }
+        ],
+        "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/lobo.png"
+      },
+      "lects": [
+        {
+          "start": 3.338,
+          "end": 4.044,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 4.04,
+          "end": 4.22,
+          "text": "el",
+          "hover": ""
+        },
+        {
+          "start": 4.22,
+          "end": 4.568,
+          "text": "lobo.",
+          "hover": ""
+        },
+        {
+          "start": 5.738,
+          "end": 6.411,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 6.41,
+          "end": 6.657,
+          "text": "la",
+          "hover": ""
+        },
+        {
+          "start": 6.657,
+          "end": 7.15,
+          "text": "luna.",
+          "hover": ""
+        },
+        {
+          "start": 8.031,
+          "end": 8.826,
+          "text": "Subo",
+          "hover": ""
+        },
+        {
+          "start": 8.896,
+          "end": 9.278,
+          "text": "a la",
+          "hover": ""
+        },
+        {
+          "start": 9.278,
+          "end": 9.77,
+          "text": "loma.",
+          "hover": ""
+        },
+        {
+          "start": 10.55,
+          "end": 11.604,
+          "text": "Aúllo",
+          "hover": ""
+        },
+        {
+          "start": 11.807,
+          "end": 12.151,
+          "text": "a la",
+          "hover": ""
+        },
+        {
+          "start": 12.151,
+          "end": 12.65,
+          "text": "luna.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}
