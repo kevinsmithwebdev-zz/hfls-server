@@ -1,0 +1,124 @@
+{
+  "audioPath": "",
+  "subtitle": "The Travelling Friends",
+  "title": "Las amigas viajeras",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.56,
+            "end": 2.2,
+            "text": "Las amigas",
+            "hover": ""
+          },
+          {
+            "start": 2.306,
+            "end": 3.373,
+            "text": "viajeras",
+            "hover": ""
+          }
+        ],
+        "imagePath": "vaca.png"
+      },
+      "lects": [
+        {
+          "start": 4.266,
+          "end": 4.69,
+          "text": "Hoy",
+          "hover": ""
+        },
+        {
+          "start": 4.992,
+          "end": 5.724,
+          "text": "es",
+          "hover": ""
+        },
+        {
+          "start": 5.934,
+          "end": 6.674,
+          "text": "viernes.",
+          "hover": ""
+        },
+        {
+          "start": 7.634,
+          "end": 8.383,
+          "text": "Somos",
+          "hover": ""
+        },
+        {
+          "start": 9.27,
+          "end": 10.462,
+          "text": "la vaca",
+          "hover": ""
+        },
+        {
+          "start": 10.713,
+          "end": 11.68,
+          "text": "Vanesa",
+          "hover": ""
+        },
+        {
+          "start": 12.336,
+          "end": 12.875,
+          "text": "y",
+          "hover": ""
+        },
+        {
+          "start": 12.986,
+          "end": 14.571,
+          "text": "la obeja",
+          "hover": ""
+        },
+        {
+          "start": 15.07,
+          "end": 15.57,
+          "text": "Violeta.",
+          "hover": ""
+        },
+        {
+          "start": 16.736,
+          "end": 18.519,
+          "text": "Nos gusta",
+          "hover": ""
+        },
+        {
+          "start": 18.94,
+          "end": 19.836,
+          "text": "viajar",
+          "hover": ""
+        },
+        {
+          "start": 20.656,
+          "end": 21.146,
+          "text": "y",
+          "hover": ""
+        },
+        {
+          "start": 21.715,
+          "end": 22.697,
+          "text": "volamos",
+          "hover": ""
+        },
+        {
+          "start": 23.24,
+          "end": 24.679,
+          "text": "en avión.",
+          "hover": ""
+        },
+        {
+          "start": 25.936,
+          "end": 26.855,
+          "text": "¡Vamos",
+          "hover": ""
+        },
+        {
+          "start": 26.953,
+          "end": 28.052,
+          "text": "a Venezuela!",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

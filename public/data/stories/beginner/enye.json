@@ -1,0 +1,142 @@
+{
+  "audioPath": "",
+  "subtitle": "Armiña",
+  "title": "Armiña",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.533,
+            "end": 1.423,
+            "text": "Armiña",
+            "hover": ""
+          }
+        ],
+        "imagePath": "enye.png"
+      },
+      "lects": [
+        {
+          "start": 2.297,
+          "end": 2.922,
+          "text": "Es",
+          "hover": ""
+        },
+        {
+          "start": 3.245,
+          "end": 5.023,
+          "text": "una mañana",
+          "hover": ""
+        },
+        {
+          "start": 5.645,
+          "end": 7.196,
+          "text": "de otoño.",
+          "hover": ""
+        },
+        {
+          "start": 7.977,
+          "end": 9.02,
+          "text": "La niña,",
+          "hover": ""
+        },
+        {
+          "start": 9.52,
+          "end": 10.643,
+          "text": "Armiña,",
+          "hover": ""
+        },
+        {
+          "start": 11.276,
+          "end": 11.988,
+          "text": "juega",
+          "hover": ""
+        },
+        {
+          "start": 12.483,
+          "end": 13.141,
+          "text": "con",
+          "hover": ""
+        },
+        {
+          "start": 13.456,
+          "end": 13.996,
+          "text": "su",
+          "hover": ""
+        },
+        {
+          "start": 14.377,
+          "end": 15.291,
+          "text": "muñeca.",
+          "hover": ""
+        },
+        {
+          "start": 16.364,
+          "end": 17.624,
+          "text": "Armiña",
+          "hover": ""
+        },
+        {
+          "start": 18.337,
+          "end": 19.235,
+          "text": "vive",
+          "hover": ""
+        },
+        {
+          "start": 19.805,
+          "end": 20.439,
+          "text": "en",
+          "hover": ""
+        },
+        {
+          "start": 20.821,
+          "end": 21.6,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 22.137,
+          "end": 23.128,
+          "text": "cabaña.",
+          "hover": ""
+        },
+        {
+          "start": 24.192,
+          "end": 24.648,
+          "text": "La",
+          "hover": ""
+        },
+        {
+          "start": 24.702,
+          "end": 25.745,
+          "text": "cabaña",
+          "hover": ""
+        },
+        {
+          "start": 26.341,
+          "end": 27.248,
+          "text": "está",
+          "hover": ""
+        },
+        {
+          "start": 27.893,
+          "end": 28.342,
+          "text": "en",
+          "hover": ""
+        },
+        {
+          "start": 28.388,
+          "end": 29.19,
+          "text": "una",
+          "hover": ""
+        },
+        {
+          "start": 29.74,
+          "end": 30.77,
+          "text": "montaña.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

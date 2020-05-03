@@ -1,0 +1,120 @@
+{
+  "audioPath": "",
+  "subtitle": "I don't like!",
+  "title": "¡No me gusta!",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.613,
+            "end": 2.006,
+            "text": "¡No me gusta!",
+            "hover": ""
+          }
+        ],
+        "imagePath": "nadia.json"
+      },
+      "lects": [
+        {
+          "start": 2.687,
+          "end": 3.511,
+          "text": "Nadia",
+          "hover": ""
+        },
+        {
+          "start": 3.789,
+          "end": 4.228,
+          "text": "es",
+          "hover": ""
+        },
+        {
+          "start": 4.274,
+          "end": 5.262,
+          "text": "una niña",
+          "hover": ""
+        },
+        {
+          "start": 5.324,
+          "end": 6.168,
+          "text": "mimada.",
+          "hover": ""
+        }
+      ]
+    },
+    {
+      "header": {
+        "lects": [],
+        "imagePath": ""
+      },
+      "lects": [
+        {
+          "start": 7.041,
+          "end": 8.068,
+          "text": "«¡No me gusta",
+          "hover": ""
+        },
+        {
+          "start": 8.06,
+          "end": 9.059,
+          "text": "la naranja!»",
+          "hover": ""
+        }
+      ]
+    },
+    {
+      "header": {
+        "lects": [],
+        "imagePath": ""
+      },
+      "lects": [
+        {
+          "start": 9.99,
+          "end": 11.258,
+          "text": "«¡No me gusta",
+          "hover": ""
+        },
+        {
+          "start": 11.258,
+          "end": 12.000,
+          "text": "el nabo!»",
+          "hover": ""
+        }
+      ]
+    },
+    {
+      "header": {
+        "lects": [],
+        "imagePath": ""
+      },
+      "lects": [
+        {
+          "start": 13.022,
+          "end": 14.058,
+          "text": "«¡No me gusta",
+          "hover": ""
+        },
+        {
+          "start": 14.146,
+          "end": 14.844,
+          "text": "el nopal!»",
+          "hover": ""
+        }
+      ]
+    },
+    {
+      "header": {
+        "lects": [],
+        "imagePath": ""
+      },
+      "lects": [
+        {
+          "start": 14.844,
+          "end": 16.34,
+          "text": "«¡No me gusta nada!»",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

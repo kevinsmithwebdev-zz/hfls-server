@@ -1,0 +1,136 @@
+{
+  "audioPath": "",
+  "subtitle": "Ximena",
+  "title": "Ximena",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.476,
+            "end": 1.293,
+            "text": "Ximena",
+            "hover": ""
+          }
+        ],
+        "imagePath": "ximena.png"
+      },
+      "lects": [
+        {
+          "start": 2.14,
+          "end": 3.154,
+          "text": "Ximena",
+          "hover": ""
+        },
+        {
+          "start": 3.56,
+          "end": 3.916,
+          "text": "y",
+          "hover": ""
+        },
+        {
+          "start": 4.044,
+          "end": 4.63,
+          "text": "su",
+          "hover": ""
+        },
+        {
+          "start": 4.775,
+          "end": 5.428,
+          "text": "mama",
+          "hover": ""
+        },
+        {
+          "start": 5.998,
+          "end": 6.56,
+          "text": "van",
+          "hover": ""
+        },
+        {
+          "start": 6.951,
+          "end": 8.506,
+          "text": "a explorar.",
+          "hover": ""
+        },
+        {
+          "start": 9.601,
+          "end": 10.64,
+          "text": "Ximena",
+          "hover": ""
+        },
+        {
+          "start": 11.097,
+          "end": 12.439,
+          "text": "y su mama",
+          "hover": ""
+        },
+        {
+          "start": 13.242,
+          "end": 13.924,
+          "text": "toman",
+          "hover": ""
+        },
+        {
+          "start": 14.05,
+          "end": 15.217,
+          "text": "un taxi.",
+          "hover": ""
+        },
+        {
+          "start": 15.915,
+          "end": 16.909,
+          "text": "Ximena",
+          "hover": ""
+        },
+        {
+          "start": 17.616,
+          "end": 17.898,
+          "text": "y",
+          "hover": ""
+        },
+        {
+          "start": 17.89,
+          "end": 19.648,
+          "text": "su mama",
+          "hover": ""
+        },
+        {
+          "start": 20.125,
+          "end": 20.762,
+          "text": "van",
+          "hover": ""
+        },
+        {
+          "start": 20.889,
+          "end": 22.298,
+          "text": "a Mexico.",
+          "hover": ""
+        },
+        {
+          "start": 23.291,
+          "end": 24.373,
+          "text": "En Mexico",
+          "hover": ""
+        },
+        {
+          "start": 24.788,
+          "end": 25.709,
+          "text": "Ximena",
+          "hover": ""
+        },
+        {
+          "start": 26.13,
+          "end": 26.986,
+          "text": "compra",
+          "hover": ""
+        },
+        {
+          "start": 27.41,
+          "end": 29.164,
+          "text": "un xilófono.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

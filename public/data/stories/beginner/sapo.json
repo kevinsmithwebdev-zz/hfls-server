@@ -1,0 +1,136 @@
+{
+  "audioPath": "",
+  "subtitle": "Mr. and Mrs. Toad",
+  "title": "El señor y la señora Sapo",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.633,
+            "end": 1.66,
+            "text": "El señor",
+            "hover": ""
+          },
+          {
+            "start": 2.052,
+            "end": 2.29,
+            "text": "y",
+            "hover": ""
+          },
+          {
+            "start": 2.31,
+            "end": 3.253,
+            "text": "la señora",
+            "hover": ""
+          },
+          {
+            "start": 3.572,
+            "end": 4.086,
+            "text": "Sapo",
+            "hover": ""
+          }
+        ],
+        "imagePath": "sapo.png"
+      },
+      "lects": [
+        {
+          "start": 5.077,
+          "end": 5.572,
+          "text": "Hola.",
+          "hover": ""
+        },
+        {
+          "start": 6.274,
+          "end": 7.2,
+          "text": "Somos",
+          "hover": ""
+        },
+        {
+          "start": 7.498,
+          "end": 10.868,
+          "text": "el señor y la señora",
+          "hover": ""
+        },
+        {
+          "start": 10.928,
+          "end": 11.502,
+          "text": "Sapo.",
+          "hover": ""
+        },
+        {
+          "start": 12.839,
+          "end": 14.55,
+          "text": "Todos los días",
+          "hover": ""
+        },
+        {
+          "start": 15.178,
+          "end": 15.906,
+          "text": "vemos",
+          "hover": ""
+        },
+        {
+          "start": 16.251,
+          "end": 17.015,
+          "text": "salir",
+          "hover": ""
+        },
+        {
+          "start": 17.382,
+          "end": 18.238,
+          "text": "el sol.",
+          "hover": ""
+        },
+        {
+          "start": 19.526,
+          "end": 21.629,
+          "text": "Todos los días",
+          "hover": ""
+        },
+        {
+          "start": 22.065,
+          "end": 24.612,
+          "text": "nos sentamos",
+          "hover": ""
+        },
+        {
+          "start": 24.951,
+          "end": 26.8,
+          "text": "debajo de",
+          "hover": ""
+        },
+        {
+          "start": 26.8,
+          "end": 28.982,
+          "text": "la sombrilla.",
+          "hover": ""
+        },
+        {
+          "start": 30.163,
+          "end": 31.941,
+          "text": "Todos los días",
+          "hover": ""
+        },
+        {
+          "start": 32.347,
+          "end": 33.242,
+          "text": "vemos",
+          "hover": ""
+        },
+        {
+          "start": 33.564,
+          "end": 34.509,
+          "text": "el sol",
+          "hover": ""
+        },
+        {
+          "start": 34.726,
+          "end": 35.6,
+          "text": "brillar.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

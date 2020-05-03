@@ -1,0 +1,112 @@
+{
+  "audioPath": "",
+  "subtitle": "Joel",
+  "title": "Yoel",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.764,
+            "end": 1.523,
+            "text": "Yoel",
+            "hover": ""
+          }
+        ],
+        "imagePath": "yoel.png"
+      },
+      "lects": [
+        {
+          "start": 2.393,
+          "end": 3.244,
+          "text": "Yoel",
+          "hover": ""
+        },
+        {
+          "start": 3.68,
+          "end": 4.261,
+          "text": "es",
+          "hover": ""
+        },
+        {
+          "start": 4.462,
+          "end": 4.943,
+          "text": "un",
+          "hover": ""
+        },
+        {
+          "start": 5.11,
+          "end": 5.893,
+          "text": "niño.",
+          "hover": ""
+        },
+        {
+          "start": 7.126,
+          "end": 9.823,
+          "text": "En la mañana",
+          "hover": ""
+        },
+        {
+          "start": 10.383,
+          "end": 11.108,
+          "text": "Yoel",
+          "hover": ""
+        },
+        {
+          "start": 11.871,
+          "end": 12.612,
+          "text": "toma",
+          "hover": ""
+        },
+        {
+          "start": 13.139,
+          "end": 15.531,
+          "text": "el desayuno.",
+          "hover": ""
+        },
+        {
+          "start": 16.576,
+          "end": 17.462,
+          "text": "Yoel",
+          "hover": ""
+        },
+        {
+          "start": 18.248,
+          "end": 18.907,
+          "text": "come",
+          "hover": ""
+        },
+        {
+          "start": 19.296,
+          "end": 19.934,
+          "text": "yogur.",
+          "hover": ""
+        },
+        {
+          "start": 21.054,
+          "end": 22.15,
+          "text": "Yoel",
+          "hover": ""
+        },
+        {
+          "start": 22.724,
+          "end": 24.445,
+          "text": "no come",
+          "hover": ""
+        },
+        {
+          "start": 24.992,
+          "end": 26.54,
+          "text": "la yema",
+          "hover": ""
+        },
+        {
+          "start": 26.935,
+          "end": 28.633,
+          "text": "del huevo.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-const STORIES_FOLDER = '../public/data/stories';
+const STORIES_FOLDER = '../../public/data/stories';
 const storiesList = require(STORIES_FOLDER + '/stories.json');
 
 const REMOTE_PATH_STUB = 'https://kswd-hfls-stories.s3-us-west-1.amazonaws.com';

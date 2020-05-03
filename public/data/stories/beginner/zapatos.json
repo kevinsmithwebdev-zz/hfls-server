@@ -1,0 +1,148 @@
+{
+  "audioPath": "",
+  "subtitle": "Zachary the Shoemaker",
+  "title": "El zapatero Zacarías",
+  "paragraphs": [
+    {
+      "header": {
+        "lects": [
+          {
+            "start": 0.762,
+            "end": 2.964,
+            "text": "El zapatero",
+            "hover": ""
+          },
+          {
+            "start": 3.262,
+            "end": 4.403,
+            "text": "Zacarías",
+            "hover": ""
+          }
+        ],
+        "imagePath": "zapatos.png"
+      },
+      "lects": [
+        {
+          "start": 5.356,
+          "end": 6.473,
+          "text": "Buenos días.",
+          "hover": ""
+        },
+        {
+          "start": 7.002,
+          "end": 7.668,
+          "text": "Soy",
+          "hover": ""
+        },
+        {
+          "start": 8.189,
+          "end": 10.008,
+          "text": "el zapatero",
+          "hover": ""
+        },
+        {
+          "start": 10.264,
+          "end": 11.262,
+          "text": "Zacarías.",
+          "hover": ""
+        },
+        {
+          "start": 12.259,
+          "end": 13.121,
+          "text": "Tengo",
+          "hover": ""
+        },
+        {
+          "start": 13.232,
+          "end": 13.887,
+          "text": "tres",
+          "hover": ""
+        },
+        {
+          "start": 14.053,
+          "end": 14.768,
+          "text": "gatos:",
+          "hover": ""
+        },
+        {
+          "start": 15.601,
+          "end": 16.514,
+          "text": "Zaus,",
+          "hover": ""
+        },
+        {
+          "start": 17.002,
+          "end": 17.728,
+          "text": "Zaíd",
+          "hover": ""
+        },
+        {
+          "start": 18.419,
+          "end": 18.924,
+          "text": "y",
+          "hover": ""
+        },
+        {
+          "start": 19.299,
+          "end": 19.967,
+          "text": "Zeki.",
+          "hover": ""
+        },
+        {
+          "start": 21.214,
+          "end": 21.888,
+          "text": "Hago",
+          "hover": ""
+        },
+        {
+          "start": 21.913,
+          "end": 22.979,
+          "text": "zapatos",
+          "hover": ""
+        },
+        {
+          "start": 23.422,
+          "end": 24.084,
+          "text": "para",
+          "hover": ""
+        },
+        {
+          "start": 24.468,
+          "end": 25.118,
+          "text": "mis",
+          "hover": ""
+        },
+        {
+          "start": 25.431,
+          "end": 26.271,
+          "text": "gatos.",
+          "hover": ""
+        },
+        {
+          "start": 27.291,
+          "end": 28.84,
+          "text": "Mis gatos",
+          "hover": ""
+        },
+        {
+          "start": 29.404,
+          "end": 30.677,
+          "text": "zapatean",
+          "hover": ""
+        },
+        {
+          "start": 30.956,
+          "end": 31.665,
+          "text": "con",
+          "hover": ""
+        },
+        {
+          "start": 31.675,
+          "end": 33.678,
+          "text": "sus zapatos.",
+          "hover": ""
+        }
+      ]
+    }
+  ]
+}
