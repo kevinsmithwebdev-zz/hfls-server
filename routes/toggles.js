@@ -8,7 +8,7 @@ router.get('/all', (req, res) => {
     .then(data => data.json())
     .then(data => res.json(data))
     .catch(err => {
-      const errorMessage = 'Error loading toggles:' + err;
+      const errorMessage = 'Error loading toggles: ' + err;
       console.error(errorMessage);
       res.json({ data: null, error: errorMessage })
     });

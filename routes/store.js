@@ -21,7 +21,7 @@ router.get('/all', (req, res) => {
     .then(data => data.json())
     .then(data => res.json({ data: transformStoreData(data), error: null }))
     .catch(err => {
-      const errorMessage = 'Error loading store:' + err;
+      const errorMessage = 'Error loading store: ' + err;
       console.error(errorMessage);
       res.json({ data: null, error: errorMessage })
     });
