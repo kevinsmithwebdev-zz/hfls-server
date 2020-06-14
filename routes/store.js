@@ -23,6 +23,7 @@ router.get('/all', (req, res) => {
     .catch(err => {
       const errorMessage = 'Error loading store: ' + err;
       console.error(errorMessage);
+      console.error(process.env.URL_STORE);
       res.json({ data: null, error: errorMessage })
     });
 });
