@@ -10,19 +10,19 @@
             "start": 0.772,
             "end": 1.038,
             "text": "La",
-            "hover": ""
+            "translation": "The"
           },
           {
             "start": 1.03,
             "end": 1.792,
             "text": "hormiga",
-            "hover": ""
+            "translation": "Ant"
           },
           {
             "start": 1.877,
             "end": 2.29,
             "text": "Hada",
-            "hover": ""
+            "translation": "Hada"
           }
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/hormiga.png"
@@ -32,73 +32,73 @@
           "start": 3.16,
           "end": 4.269,
           "text": "Buenos tardes.",
-          "hover": ""
+          "translation": "Good afternoon."
         },
         {
           "start": 4.501,
           "end": 4.798,
           "text": "Soy",
-          "hover": ""
+          "translation": "I am"
         },
         {
           "start": 4.822,
           "end": 4.938,
           "text": "la",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 4.981,
           "end": 5.48,
           "text": "hormiga",
-          "hover": ""
+          "translation": "ant"
         },
         {
           "start": 5.48,
           "end": 5.872,
           "text": "Hada.",
-          "hover": ""
+          "translation": "Hada."
         },
         {
           "start": 6.636,
           "end": 7.193,
           "text": "Como",
-          "hover": ""
+          "translation": "I eat"
         },
         {
           "start": 7.19,
           "end": 7.854,
           "text": "hojas.",
-          "hover": ""
+          "translation": "leaves."
         },
         {
           "start": 8.604,
           "end": 9.219,
           "text": "Como",
-          "hover": ""
+          "translation": "I eat"
         },
         {
           "start": 9.21,
           "end": 9.849,
           "text": "helado.",
-          "hover": ""
+          "translation": "ice cream."
         },
         {
           "start": 10.496,
           "end": 11.42,
           "text": "Después",
-          "hover": ""
+          "translation": "Afterwards"
         },
         {
           "start": 11.719,
           "end": 12.595,
           "text": "duermo",
-          "hover": ""
+          "translation": "I sleep"
         },
         {
           "start": 12.595,
           "end": 13.09,
           "text": "en la hamaca.",
-          "hover": ""
+          "translation": "in the hammock."
         }
       ]
     }

@@ -10,7 +10,7 @@
             "start": 0.613,
             "end": 2.006,
             "text": "¡No me gusta!",
-            "hover": ""
+            "translation": "I Don't Like!"
           }
         ],
         "imagePath": "nadia.json"
@@ -20,25 +20,26 @@
           "start": 2.687,
           "end": 3.511,
           "text": "Nadia",
-          "hover": ""
+          "translation": "Nadia"
         },
         {
           "start": 3.789,
           "end": 4.228,
           "text": "es",
-          "hover": ""
+          "translation": "is"
         },
         {
           "start": 4.274,
           "end": 5.262,
           "text": "una niña",
-          "hover": ""
+          "translation": "a girl"
         },
         {
           "start": 5.324,
           "end": 6.168,
           "text": "mimada.",
-          "hover": ""
+          "translation": "spoiled.",
+          "explanation": "Notice that in Spanish, the adjective comes last."
         }
       ]
     },
@@ -52,13 +53,13 @@
           "start": 7.041,
           "end": 8.068,
           "text": "«¡No me gusta",
-          "hover": ""
+          "translation": "\"I don't like"
         },
         {
           "start": 8.06,
           "end": 9.059,
           "text": "la naranja!»",
-          "hover": ""
+          "translation": "the orange!\""
         }
       ]
     },
@@ -72,13 +73,13 @@
           "start": 9.99,
           "end": 11.258,
           "text": "«¡No me gusta",
-          "hover": ""
+          "translation": "\"I don't like"
         },
         {
           "start": 11.258,
           "end": 12.000,
           "text": "el nabo!»",
-          "hover": ""
+          "translation": "the turnip!\""
         }
       ]
     },
@@ -92,13 +93,14 @@
           "start": 13.022,
           "end": 14.058,
           "text": "«¡No me gusta",
-          "hover": ""
+          "translation": "\"I don't like"
         },
         {
           "start": 14.146,
           "end": 14.844,
           "text": "el nopal!»",
-          "hover": ""
+          "translation": "the cactus!\"",
+          "explanation": "In Mexican food, they eat \"nopal\", the leaf of the prickly pear cactus."
         }
       ]
     },
@@ -112,7 +114,7 @@
           "start": 14.844,
           "end": 16.34,
           "text": "«¡No me gusta nada!»",
-          "hover": ""
+          "translation": "\"I don't like anything!\""
         }
       ]
     }

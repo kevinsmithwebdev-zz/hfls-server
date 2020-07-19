@@ -10,19 +10,19 @@
             "start": 0.693,
             "end": 1.111,
             "text": "¿Cuántas",
-            "hover": ""
+            "translation": "How Many"
           },
           {
             "start": 1.11,
             "end": 1.67,
             "text": "galletas",
-            "hover": ""
+            "translation": "cookies"
           },
           {
             "start": 1.76,
             "end": 2.303,
             "text": "quieres?",
-            "hover": ""
+            "translation": "do you want?"
           }
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/galletas.png"
@@ -32,37 +32,37 @@
           "start": 3.575,
           "end": 4.08,
           "text": "«Quiero",
-          "hover": ""
+          "translation": "\"I want"
         },
         {
           "start": 4.08,
           "end": 4.512,
           "text": "una",
-          "hover": ""
+          "translation": "a"
         },
         {
           "start": 4.51,
           "end": 4.986,
           "text": "galleta»,",
-          "hover": ""
+          "translation": "cookie\","
         },
         {
           "start": 5.658,
           "end": 6.328,
           "text": "dice",
-          "hover": ""
+          "translation": "says"
         },
         {
           "start": 6.499,
           "end": 6.7,
           "text": "el",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 6.7,
           "end": 7.057,
           "text": "ganso.",
-          "hover": ""
+          "translation": "goose."
         }
       ]
     },
@@ -76,37 +76,37 @@
           "start": 8.071,
           "end": 8.527,
           "text": "«Quiero",
-          "hover": ""
+          "translation": "\"I want"
         },
         {
           "start": 8.52,
           "end": 8.958,
           "text": "dos",
-          "hover": ""
+          "translation": "two"
         },
         {
           "start": 8.999,
           "end": 9.791,
           "text": "galletas»,",
-          "hover": ""
+          "translation": "cookies\","
         },
         {
           "start": 10.266,
           "end": 10.937,
           "text": "dice",
-          "hover": ""
+          "translation": "says"
         },
         {
           "start": 11.088,
           "end": 11.317,
           "text": "el",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 11.333,
           "end": 11.764,
           "text": "gallo.",
-          "hover": ""
+          "translation": "rooster."
         }
       ]
     },
@@ -120,37 +120,37 @@
           "start": 12.44,
           "end": 12.974,
           "text": "«Quiero",
-          "hover": ""
+          "translation": "\"I want"
         },
         {
           "start": 12.974,
           "end": 13.049,
           "text": "tres",
-          "hover": ""
+          "translation": "three"
         },
         {
           "start": 13.426,
           "end": 14.249,
           "text": "galletas»,",
-          "hover": ""
+          "translation": "cookies\","
         },
         {
           "start": 14.669,
           "end": 15.32,
           "text": "dice",
-          "hover": ""
+          "translation": "says"
         },
         {
           "start": 15.5,
           "end": 15.689,
           "text": "la",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 15.711,
           "end": 16.365,
           "text": "gallina.",
-          "hover": ""
+          "translation": "hen."
         }
       ]
     },
@@ -164,37 +164,37 @@
           "start": 17.038,
           "end": 17.485,
           "text": "«Quiero",
-          "hover": ""
+          "translation": "\"I want"
         },
         {
           "start": 17.585,
           "end": 18.192,
           "text": "cuatro",
-          "hover": ""
+          "translation": "four"
         },
         {
           "start": 18.19,
           "end": 19.056,
           "text": "galletas»,",
-          "hover": ""
+          "translation": "cookies\","
         },
         {
           "start": 19.502,
           "end": 20.099,
           "text": "dice",
-          "hover": ""
+          "translation": "says"
         },
         {
           "start": 20.115,
           "end": 20.354,
           "text": "el",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 20.354,
           "end": 22.34,
           "text": "pingüino.",
-          "hover": ""
+          "translation": "penguin."
         }
       ]
     }

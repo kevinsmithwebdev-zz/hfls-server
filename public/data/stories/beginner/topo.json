@@ -10,7 +10,7 @@
             "start": 0.551,
             "end": 2.504,
             "text": "El topo Tino",
-            "hover": ""
+            "translation": "Tino the Mole"
           }
         ],
         "imagePath": "topo.png"
@@ -20,163 +20,157 @@
           "start": 3.469,
           "end": 3.982,
           "text": "Hola.",
-          "hover": ""
+          "translation": "Hello."
         },
         {
           "start": 4.555,
           "end": 5.346,
           "text": "Soy",
-          "hover": ""
+          "translation": "I am"
         },
         {
           "start": 5.616,
           "end": 5.929,
           "text": "el",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 5.92,
           "end": 6.666,
           "text": "topo",
-          "hover": ""
+          "translation": "mole"
         },
         {
           "start": 7.178,
           "end": 7.787,
           "text": "Tino",
-          "hover": ""
+          "translation": "Tino"
         },
         {
           "start": 8.602,
           "end": 9.012,
           "text": "y",
-          "hover": ""
+          "translation": "and"
         },
         {
           "start": 9.849,
           "end": 11.404,
           "text": "me gusta",
-          "hover": ""
+          "translation": "I like"
         },
         {
           "start": 11.905,
           "end": 12.548,
           "text": "tejer.",
-          "hover": ""
+          "translation": "to knit."
         },
         {
           "start": 13.807,
           "end": 14.726,
           "text": "Tejo",
-          "hover": ""
+          "translation": "I knit"
         },
         {
           "start": 15.253,
           "end": 17.247,
           "text": "una chaqueta",
-          "hover": ""
+          "translation": "a jacket"
         },
         {
           "start": 17.869,
           "end": 18.574,
           "text": "para",
-          "hover": ""
+          "translation": "for"
         },
         {
           "start": 18.57,
           "end": 19.518,
           "text": "mi",
-          "hover": ""
+          "translation": "my"
         },
         {
           "start": 19.711,
           "end": 20.656,
           "text": "amigo",
-          "hover": ""
+          "translation": "friend"
         },
         {
           "start": 20.981,
           "end": 21.608,
           "text": "Toro.",
-          "hover": ""
+          "translation": "Bull."
         },
         {
           "start": 22.853,
           "end": 23.652,
           "text": "Tejo",
-          "hover": ""
+          "translation": "I knit"
         },
         {
           "start": 24.127,
           "end": 26.053,
           "text": "una corbata",
-          "hover": ""
+          "translation": "a scarf"
         },
         {
           "start": 26.878,
           "end": 27.622,
           "text": "para",
-          "hover": ""
+          "translation": "for"
         },
         {
           "start": 28.014,
           "end": 28.569,
           "text": "mi",
-          "hover": ""
+          "translation": "my"
         },
         {
           "start": 28.659,
           "end": 29.676,
           "text": "amigo",
-          "hover": ""
+          "translation": "friend"
         },
         {
           "start": 30.022,
           "end": 30.653,
           "text": "Tucán.",
-          "hover": ""
+          "translation": "Toucan"
         },
         {
           "start": 31.903,
           "end": 32.796,
           "text": "Tejo",
-          "hover": ""
+          "translation": "I knit"
         },
         {
           "start": 33.226,
-          "end": 33.689,
-          "text": "un",
-          "hover": ""
-        },
-        {
-          "start": 34.145,
           "end": 35.314,
-          "text": "pantalón",
-          "hover": ""
+          "text": "un pantalón",
+          "translation": "some pants"
         },
         {
           "start": 36.204,
           "end": 36.902,
           "text": "para",
-          "hover": ""
+          "translation": "for"
         },
         {
           "start": 37.435,
           "end": 38.089,
           "text": "mi",
-          "hover": ""
+          "translation": "my"
         },
         {
           "start": 38.434,
           "end": 39.565,
           "text": "amigo",
-          "hover": ""
+          "translation": "friend"
         },
         {
           "start": 39.978,
           "end": 40.909,
           "text": "Tortuga.",
-          "hover": ""
+          "translation": "Turtle."
         }
       ]
     }

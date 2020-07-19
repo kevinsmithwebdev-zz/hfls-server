@@ -10,25 +10,25 @@
             "start": 0.602,
             "end": 0.814,
             "text": "El",
-            "hover": ""
+            "translation": "The"
           },
           {
             "start": 0.811,
             "end": 1.214,
             "text": "diente",
-            "hover": ""
+            "translation": "tooth"
           },
           {
             "start": 1.226,
             "end": 1.428,
             "text": "de",
-            "hover": ""
+            "translation": "of"
           },
           {
             "start": 1.42,
             "end": 1.797,
             "text": "Dino",
-            "hover": ""
+            "translation": "Dino"
           }
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/dinosaurio.png"
@@ -38,67 +38,67 @@
           "start": 2.47,
           "end": 2.911,
           "text": "Hola.",
-          "hover": ""
+          "translation": "Hello."
         },
         {
           "start": 3.415,
           "end": 3.621,
           "text": "Soy",
-          "hover": ""
+          "translation": "I am"
         },
         {
           "start": 3.62,
           "end": 3.998,
           "text": "Dino,",
-          "hover": ""
+          "translation": "Dino,"
         },
         {
           "start": 4.502,
           "end": 4.662,
           "text": "el",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 4.66,
           "end": 5.562,
           "text": "dinosaurio.",
-          "hover": ""
+          "translation": "dinosaur."
         },
         {
           "start": 6.065,
           "end": 6.644,
           "text": "Duermo",
-          "hover": ""
+          "translation": "I sleep"
         },
         {
           "start": 6.64,
           "end": 7.146,
           "text": "de día.",
-          "hover": ""
+          "translation": "during the day."
         },
         {
           "start": 7.887,
           "end": 8.775,
           "text": "En la noche",
-          "hover": ""
+          "translation": "At night"
         },
         {
           "start": 8.77,
           "end": 9.825,
           "text": "me duele diente.",
-          "hover": ""
+          "translation": "my tooth hurts."
         },
         {
           "start": 10.367,
           "end": 10.764,
           "text": "¡Quiero",
-          "hover": ""
+          "translation": "I want"
         },
         {
           "start": 10.764,
           "end": 12.76,
           "text": "un dentista!",
-          "hover": ""
+          "translation": "a dentist!"
         }
       ]
     }

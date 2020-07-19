@@ -10,13 +10,14 @@
             "start": 0.36,
             "end": 1.18,
             "text": "El burro",
-            "hover": ""
+            "translation": "The Donkey"
           },
           {
             "start": 1.18,
             "end": 2.58,
             "text": "bailarín.",
-            "hover": ""
+            "translation": "Dancing",
+            "explanation": "\"Bailarín\" can mean either \"dancing\" or \"dancer\". Notice that if comes after \"donkey\", unlike in English."
           }
         ],
         "imageFilename": "burro.png"
@@ -26,61 +27,62 @@
           "start": 2.64,
           "end": 3.22,
           "text": "Hola.",
-          "hover": ""
+          "translation": "Hello."
         },
         {
           "start": 3.6,
           "end": 4.12,
           "text": "Soy",
-          "hover": ""
+          "translation": "I am"
         },
         {
           "start": 4.12,
           "end": 4.98,
           "text": "un burro.",
-          "hover": ""
+          "translation": "a donkey."
         },
         {
           "start": 5.42,
           "end": 6.36,
           "text": "Me llamo",
-          "hover": ""
+          "translation": "My name is",
+          "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
         },
         {
           "start": 6.36,
           "end": 7.04,
           "text": "Beto.",
-          "hover": ""
+          "translation": "Beto."
         },
         {
           "start": 7.7,
           "end": 8.36,
           "text": "Tengo",
-          "hover": ""
+          "translation": "I have"
         },
         {
           "start": 8.4,
           "end": 8.86,
           "text": "botas.",
-          "hover": ""
+          "translation": "boots."
         },
         {
           "start": 9.46,
           "end": 9.92,
           "text": "Tengo",
-          "hover": ""
+          "translation": "I have"
         },
         {
           "start": 9.92,
           "end": 10.52,
           "text": "botas",
-          "hover": ""
+          "translation": "boots"
         },
         {
           "start": 10.68,
           "end": 11.60,
           "text": "para bailar.",
-          "hover": ""
+          "translation": "for dancing."
         }
       ]
     }

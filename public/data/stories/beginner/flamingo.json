@@ -10,19 +10,19 @@
             "start": 0.354,
             "end": 0.528,
             "text": "El",
-            "hover": ""
+            "translation": "The"
           },
           {
             "start": 0.528,
             "end": 0.537,
             "text": "flamenco",
-            "hover": ""
+            "translation": "Flamingo"
           },
           {
             "start": 1.21,
             "end": 1.782,
             "text": "Fito",
-            "hover": ""
+            "translation": "Fito"
           }
         ],
         "imagePath": "s3://kswd-hfls-stories/beginner/flamingo.png"
@@ -32,67 +32,68 @@
           "start": 2.24,
           "end": 2.708,
           "text": "Hola.",
-          "hover": ""
+          "translation": "Hello."
         },
         {
           "start": 3.314,
           "end": 3.487,
           "text": "Soy",
-          "hover": ""
+          "translation": "I am"
         },
         {
           "start": 3.498,
           "end": 4.295,
           "text": "el flamenco",
-          "hover": ""
+          "translation": "the flamingo"
         },
         {
           "start": 4.352,
           "end": 4.729,
           "text": "Fito.",
-          "hover": ""
+          "translation": "Fito."
         },
         {
           "start": 5.497,
           "end": 6.035,
           "text": "Vuelo",
-          "hover": ""
+          "translation": "I fly"
         },
         {
           "start": 6.066,
           "end": 6.581,
           "text": "feliz.",
-          "hover": ""
+          "translation": "happy."
         },
         {
           "start": 7.324,
           "end": 8.035,
           "text": "Vuelo",
-          "hover": ""
+          "translation": "I fly"
         },
         {
           "start": 8.068,
           "end": 8.226,
           "text": "a",
-          "hover": ""
+          "translation": "to"
         },
         {
           "start": 8.22,
           "end": 8.981,
           "text": "Florida.",
-          "hover": ""
+          "translation": "Florida."
         },
         {
           "start": 9.601,
           "end": 10.097,
           "text": "Visito",
-          "hover": ""
+          "translation": "I visit"
         },
         {
           "start": 10.501,
           "end": 11.4,
           "text": "a mi familia.",
-          "hover": ""
+          "translation": "my family.",
+          "explanation": "In Spanish the word \"a\" (English: \"to\") is added."
         }
       ]
     }

@@ -10,19 +10,20 @@
             "start": 0.380,
             "end": 0.640,
             "text": "La",
-            "hover": ""
+            "translation": "The"
           },
           {
             "start": 0.640,
             "end": 1.480,
             "text": "cucaracha",
-            "hover": ""
+            "translation": "Cockroach"
           },
           {
             "start": 1.480,
             "end": 2.140,
             "text": "colorada",
-            "hover": ""
+            "translation": "Red",
+            "explanation": "Notice that the adjective comes last."
           }
         ],
         "imagePath": "cucracha.png"
@@ -32,85 +33,85 @@
           "start": 2.98,
           "end": 3.6,
           "text": "Hola.",
-          "hover": ""
+          "translation": "Hello."
         },
         {
           "start": 3.7,
           "end": 4,
           "text": "Soy",
-          "hover": ""
+          "translation": "I am"
         },
         {
           "start": 4,
           "end": 4.115,
           "text": "la",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 4.115,
           "end": 4.14,
           "text": "cucaracha",
-          "hover": ""
+          "translation": "cockroach"
         },
         {
           "start": 4.84,
           "end": 5.355,
           "text": "Camila.",
-          "hover": ""
+          "translation": "Camila."
         },
         {
           "start": 6.135,
           "end": 6.185,
           "text": "Soy",
-          "hover": ""
+          "translation": "I am"
         },
         {
           "start": 6.185,
           "end": 6.4,
           "text": "colorada.",
-          "hover": ""
+          "translation": "red."
         },
         {
           "start": 7.93,
           "end": 8.325,
           "text": "Como",
-          "hover": ""
+          "translation": "I eat"
         },
         {
           "start": 8.32,
           "end": 8.705,
           "text": "muchos",
-          "hover": ""
+          "translation": "a lot (of)"
         },
         {
           "start": 8.755,
           "end": 9.565,
           "text": "caramelos.",
-          "hover": ""
+          "translation": "candies."
         },
         {
           "start": 10.117,
           "end": 10.297,
           "text": "Mi",
-          "hover": ""
+          "translation": "My"
         },
         {
           "start": 10.29,
           "end": 10.754,
           "text": "mamá",
-          "hover": ""
+          "translation": "mother"
         },
         {
           "start": 10.94,
           "end": 11.742,
           "text": "no está",
-          "hover": ""
+          "translation": "is not"
         },
         {
           "start": 11.742,
           "end": 12.448,
           "text": "contenta.",
-          "hover": ""
+          "translation": "happy."
         }
       ]
     }

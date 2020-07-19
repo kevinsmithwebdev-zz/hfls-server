@@ -10,7 +10,7 @@
             "start": 0.764,
             "end": 1.523,
             "text": "Yoel",
-            "hover": ""
+            "translation": "Joel"
           }
         ],
         "imagePath": "yoel.png"
@@ -20,91 +20,92 @@
           "start": 2.393,
           "end": 3.244,
           "text": "Yoel",
-          "hover": ""
+          "translation": "Joel"
         },
         {
           "start": 3.68,
           "end": 4.261,
           "text": "es",
-          "hover": ""
+          "translation": "is"
         },
         {
           "start": 4.462,
           "end": 4.943,
           "text": "un",
-          "hover": ""
+          "translation": "a"
         },
         {
           "start": 5.11,
           "end": 5.893,
           "text": "niño.",
-          "hover": ""
+          "translation": "boy."
         },
         {
           "start": 7.126,
           "end": 9.823,
           "text": "En la mañana",
-          "hover": ""
+          "translation": "In the morning"
         },
         {
           "start": 10.383,
           "end": 11.108,
           "text": "Yoel",
-          "hover": ""
+          "translation": "Joel"
         },
         {
           "start": 11.871,
           "end": 12.612,
           "text": "toma",
-          "hover": ""
+          "translation": "eats",
+          "explanation": "In Spanish it is common to say that you \"take\" (\"tomar\") food, drink, or a meal."
         },
         {
           "start": 13.139,
           "end": 15.531,
           "text": "el desayuno.",
-          "hover": ""
+          "translation": "the breakfast."
         },
         {
           "start": 16.576,
           "end": 17.462,
           "text": "Yoel",
-          "hover": ""
+          "translation": "Joel"
         },
         {
           "start": 18.248,
           "end": 18.907,
           "text": "come",
-          "hover": ""
+          "translation": "eats"
         },
         {
           "start": 19.296,
           "end": 19.934,
           "text": "yogur.",
-          "hover": ""
+          "translation": "yogurt."
         },
         {
           "start": 21.054,
           "end": 22.15,
           "text": "Yoel",
-          "hover": ""
+          "translation": "Joel"
         },
         {
           "start": 22.724,
           "end": 24.445,
           "text": "no come",
-          "hover": ""
+          "translation": "doesn't eat"
         },
         {
           "start": 24.992,
           "end": 26.54,
           "text": "la yema",
-          "hover": ""
+          "translation": "the yolk"
         },
         {
           "start": 26.935,
           "end": 28.633,
           "text": "del huevo.",
-          "hover": ""
+          "translation": "of the egg."
         }
       ]
     }

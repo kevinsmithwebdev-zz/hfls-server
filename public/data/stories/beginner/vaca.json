@@ -10,13 +10,14 @@
             "start": 0.56,
             "end": 2.2,
             "text": "Las amigas",
-            "hover": ""
+            "translation": "The Friends"
           },
           {
             "start": 2.306,
             "end": 3.373,
             "text": "viajeras",
-            "hover": ""
+            "translation": "Travelling",
+            "explanation": "Notice that the adjective comes last."
           }
         ],
         "imagePath": "vaca.png"
@@ -26,97 +27,98 @@
           "start": 4.266,
           "end": 4.69,
           "text": "Hoy",
-          "hover": ""
+          "translation": "Today"
         },
         {
           "start": 4.992,
           "end": 5.724,
           "text": "es",
-          "hover": ""
+          "translation": "is"
         },
         {
           "start": 5.934,
           "end": 6.674,
           "text": "viernes.",
-          "hover": ""
+          "translation": "Friday.",
+          "explanation": "In Spanish, days of the week (and months) are not capitalized, unless they are the first word in a sentence or a title."
         },
         {
           "start": 7.634,
           "end": 8.383,
           "text": "Somos",
-          "hover": ""
+          "translation": "We are"
         },
         {
           "start": 9.27,
           "end": 10.462,
           "text": "la vaca",
-          "hover": ""
+          "translation": "the cow"
         },
         {
           "start": 10.713,
           "end": 11.68,
           "text": "Vanesa",
-          "hover": ""
+          "translation": "Vanesa"
         },
         {
           "start": 12.336,
           "end": 12.875,
           "text": "y",
-          "hover": ""
+          "translation": "and"
         },
         {
           "start": 12.986,
           "end": 14.571,
           "text": "la obeja",
-          "hover": ""
+          "translation": "the sheep"
         },
         {
           "start": 15.07,
           "end": 15.57,
           "text": "Violeta.",
-          "hover": ""
+          "translation": "Violeta"
         },
         {
           "start": 16.736,
           "end": 18.519,
           "text": "Nos gusta",
-          "hover": ""
+          "translation": "We like"
         },
         {
           "start": 18.94,
           "end": 19.836,
           "text": "viajar",
-          "hover": ""
+          "translation": "to travel"
         },
         {
           "start": 20.656,
           "end": 21.146,
           "text": "y",
-          "hover": ""
+          "translation": "and"
         },
         {
           "start": 21.715,
           "end": 22.697,
           "text": "volamos",
-          "hover": ""
+          "translation": "we fly"
         },
         {
           "start": 23.24,
           "end": 24.679,
           "text": "en avión.",
-          "hover": ""
+          "translation": "in (a) plane."
         },
         {
           "start": 25.936,
           "end": 26.855,
           "text": "¡Vamos",
-          "hover": ""
+          "translation": "Let's go"
         },
         {
           "start": 26.953,
           "end": 28.052,
           "text": "a Venezuela!",
-          "hover": ""
+          "translation": "to Venezuela!"
         }
       ]
     }

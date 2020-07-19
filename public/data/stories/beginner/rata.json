@@ -10,19 +10,19 @@
             "start": 0.909,
             "end": 1.836,
             "text": "La rata",
-            "hover": ""
+            "translation": "The Rat"
           },
           {
             "start": 1.900,
             "end": 2.600,
             "text": "y",
-            "hover": ""
+            "translation": "and"
           },
           {
             "start": 2.989,
             "end": 4.228,
             "text": "el ratón",
-            "hover": ""
+            "translation": "the Mouse"
           }
         ],
         "imagePath": "rata.png"
@@ -32,133 +32,134 @@
           "start": 5,
           "end": 5.89,
           "text": "Romina",
-          "hover": ""
+          "translation": "Romina"
         },
         {
           "start": 6.236,
           "end": 6.837,
           "text": "es",
-          "hover": ""
+          "translation": "is"
         },
         {
           "start": 7.346,
           "end": 8.64,
           "text": "una rata.",
-          "hover": ""
+          "translation": "a rat."
         },
         {
           "start": 9.405,
           "end": 10.46,
           "text": "Romero",
-          "hover": ""
+          "translation": "Romero"
         },
         {
           "start": 11.025,
           "end": 11.676,
           "text": "es",
-          "hover": ""
+          "translation": "is"
         },
         {
           "start": 12.097,
           "end": 13.389,
           "text": "un ratón.",
-          "hover": ""
+          "translation": "a mouse."
         },
         {
           "start": 14.205,
           "end": 15.231,
           "text": "La rata",
-          "hover": ""
+          "translation": "The rat"
         },
         {
           "start": 15.68,
           "end": 15.898,
           "text": "y",
-          "hover": ""
+          "translation": "and"
         },
         {
           "start": 15.89,
           "end": 16.986,
           "text": "el ratón",
-          "hover": ""
+          "translation": "the mouse"
         },
         {
           "start": 17.707,
           "end": 18.365,
           "text": "tienen",
-          "hover": ""
+          "translation": "have"
         },
         {
           "start": 18.604,
           "end": 19.182,
           "text": "una",
-          "hover": ""
+          "translation": "a"
         },
         {
           "start": 19.467,
           "end": 20.373,
           "text": "barca",
-          "hover": ""
+          "translation": "boat"
         },
         {
           "start": 20.662,
           "end": 21.275,
           "text": "roja.",
-          "hover": ""
+          "translation": "red",
+          "explanation": "Notice that in Spanish, the adjective comes last."
         },
         {
           "start": 22.275,
           "end": 23.36,
           "text": "Romina",
-          "hover": ""
+          "translation": "Romina"
         },
         {
           "start": 24.138,
           "end": 24.527,
           "text": "y",
-          "hover": ""
+          "translation": "and"
         },
         {
           "start": 24.69,
           "end": 25.725,
           "text": "Romero",
-          "hover": ""
+          "translation": "Romero"
         },
         {
           "start": 26.306,
           "end": 27.314,
           "text": "reman",
-          "hover": ""
+          "translation": "row"
         },
         {
           "start": 27.81,
           "end": 27.959,
           "text": "y",
-          "hover": ""
+          "translation": "and"
         },
         {
           "start": 27.95,
           "end": 28.806,
           "text": "reman",
-          "hover": ""
+          "translation": "row"
         },
         {
           "start": 29.471,
           "end": 30.016,
           "text": "en",
-          "hover": ""
+          "translation": "on"
         },
         {
           "start": 30.499,
           "end": 31.026,
           "text": "el",
-          "hover": ""
+          "translation": "the"
         },
         {
           "start": 31.113,
           "end": 31.81,
           "text": "mar.",
-          "hover": ""
+          "translation": "sea."
         }
       ]
     }
