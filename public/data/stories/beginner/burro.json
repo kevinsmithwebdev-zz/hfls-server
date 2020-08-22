@@ -1,4 +1,4 @@
-﻿{
+{
   "audioPath": "",
   "subtitle": "The Dancing Donkey",
   "title": "El burro bailarín",
@@ -22,67 +22,107 @@
         ],
         "imageFilename": "burro.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 2.64,
-          "end": 3.22,
-          "text": "Hola.",
-          "translation": "Hello."
+          "lects": [
+            {
+              "start": 2.64,
+              "end": 3.22,
+              "text": "Hola",
+              "translation": "Hello"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Hello."
         },
         {
-          "start": 3.6,
-          "end": 4.12,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 3.6,
+              "end": 4.12,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 4.12,
+              "end": 4.98,
+              "text": "un burro",
+              "translation": "a donkey"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am a donkey."
         },
         {
-          "start": 4.12,
-          "end": 4.98,
-          "text": "un burro.",
-          "translation": "a donkey."
+          "lects": [
+            {
+              "start": 5.42,
+              "end": 6.36,
+              "text": "Me llamo",
+              "translation": "My name is",
+              "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
+            },
+            {
+              "start": 6.36,
+              "end": 7.04,
+              "text": "Beto",
+              "translation": "Beto"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "My name is Beto."
         },
         {
-          "start": 5.42,
-          "end": 6.36,
-          "text": "Me llamo",
-          "translation": "My name is",
-          "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
+          "lects": [
+            {
+              "start": 7.7,
+              "end": 8.36,
+              "text": "Tengo",
+              "translation": "I have"
+            },
+            {
+              "start": 8.4,
+              "end": 8.86,
+              "text": "botas",
+              "translation": "boots"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I have boots."
         },
         {
-          "start": 6.36,
-          "end": 7.04,
-          "text": "Beto.",
-          "translation": "Beto."
-        },
-        {
-          "start": 7.7,
-          "end": 8.36,
-          "text": "Tengo",
-          "translation": "I have"
-        },
-        {
-          "start": 8.4,
-          "end": 8.86,
-          "text": "botas.",
-          "translation": "boots."
-        },
-        {
-          "start": 9.46,
-          "end": 9.92,
-          "text": "Tengo",
-          "translation": "I have"
-        },
-        {
-          "start": 9.92,
-          "end": 10.52,
-          "text": "botas",
-          "translation": "boots"
-        },
-        {
-          "start": 10.68,
-          "end": 11.60,
-          "text": "para bailar.",
-          "translation": "for dancing."
+          "lects": [
+            {
+              "start": 9.46,
+              "end": 9.92,
+              "text": "Tengo",
+              "translation": "I have"
+            },
+            {
+              "start": 9.92,
+              "end": 10.52,
+              "text": "botas",
+              "translation": "boots"
+            },
+            {
+              "start": 10.68,
+              "end": 11.6,
+              "text": "para bailar",
+              "translation": "for dancing"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I have boots for dancing."
         }
       ]
     }

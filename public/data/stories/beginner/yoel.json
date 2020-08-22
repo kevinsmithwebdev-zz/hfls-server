@@ -15,97 +15,129 @@
         ],
         "imagePath": "yoel.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 2.393,
-          "end": 3.244,
-          "text": "Yoel",
-          "translation": "Joel"
+          "lects": [
+            {
+              "start": 2.393,
+              "end": 3.244,
+              "text": "Yoel",
+              "translation": "Joel"
+            },
+            {
+              "start": 3.68,
+              "end": 4.261,
+              "text": "es",
+              "translation": "is"
+            },
+            {
+              "start": 4.462,
+              "end": 4.943,
+              "text": "un",
+              "translation": "a"
+            },
+            {
+              "start": 5.11,
+              "end": 5.893,
+              "text": "niño",
+              "translation": "boy."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Joel is a boy."
         },
         {
-          "start": 3.68,
-          "end": 4.261,
-          "text": "es",
-          "translation": "is"
+          "lects": [
+            {
+              "start": 7.126,
+              "end": 9.823,
+              "text": "En la mañana",
+              "translation": "In the morning"
+            },
+            {
+              "start": 10.383,
+              "end": 11.108,
+              "text": "Yoel",
+              "translation": "Joel"
+            },
+            {
+              "start": 11.871,
+              "end": 12.612,
+              "text": "toma",
+              "translation": "eats",
+              "explanation": "In Spanish it is common to say that you \"take\" (\"tomar\") food, drink, or a meal."
+            },
+            {
+              "start": 13.139,
+              "end": 15.531,
+              "text": "el desayuno",
+              "translation": "the breakfast."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "In the morning Joel eats the breakfast."
         },
         {
-          "start": 4.462,
-          "end": 4.943,
-          "text": "un",
-          "translation": "a"
+          "lects": [
+            {
+              "start": 16.576,
+              "end": 17.462,
+              "text": "Yoel",
+              "translation": "Joel"
+            },
+            {
+              "start": 18.248,
+              "end": 18.907,
+              "text": "come",
+              "translation": "eats"
+            },
+            {
+              "start": 19.296,
+              "end": 19.934,
+              "text": "yogur",
+              "translation": "yogurt."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Joel eats yogurt."
         },
         {
-          "start": 5.11,
-          "end": 5.893,
-          "text": "niño.",
-          "translation": "boy."
-        },
-        {
-          "start": 7.126,
-          "end": 9.823,
-          "text": "En la mañana",
-          "translation": "In the morning"
-        },
-        {
-          "start": 10.383,
-          "end": 11.108,
-          "text": "Yoel",
-          "translation": "Joel"
-        },
-        {
-          "start": 11.871,
-          "end": 12.612,
-          "text": "toma",
-          "translation": "eats",
-          "explanation": "In Spanish it is common to say that you \"take\" (\"tomar\") food, drink, or a meal."
-        },
-        {
-          "start": 13.139,
-          "end": 15.531,
-          "text": "el desayuno.",
-          "translation": "the breakfast."
-        },
-        {
-          "start": 16.576,
-          "end": 17.462,
-          "text": "Yoel",
-          "translation": "Joel"
-        },
-        {
-          "start": 18.248,
-          "end": 18.907,
-          "text": "come",
-          "translation": "eats"
-        },
-        {
-          "start": 19.296,
-          "end": 19.934,
-          "text": "yogur.",
-          "translation": "yogurt."
-        },
-        {
-          "start": 21.054,
-          "end": 22.15,
-          "text": "Yoel",
-          "translation": "Joel"
-        },
-        {
-          "start": 22.724,
-          "end": 24.445,
-          "text": "no come",
-          "translation": "doesn't eat"
-        },
-        {
-          "start": 24.992,
-          "end": 26.54,
-          "text": "la yema",
-          "translation": "the yolk"
-        },
-        {
-          "start": 26.935,
-          "end": 28.633,
-          "text": "del huevo.",
-          "translation": "of the egg."
+          "lects": [
+            {
+              "start": 21.054,
+              "end": 22.15,
+              "text": "Yoel",
+              "translation": "Joel"
+            },
+            {
+              "start": 22.724,
+              "end": 24.445,
+              "text": "no come",
+              "translation": "doesn't eat"
+            },
+            {
+              "start": 24.992,
+              "end": 26.54,
+              "text": "la yema",
+              "translation": "the yolk"
+            },
+            {
+              "start": 26.935,
+              "end": 28.633,
+              "text": "del huevo",
+              "translation": "of the egg."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Joel doesn't eat the egg yolk."
         }
       ]
     }

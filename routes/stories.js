@@ -12,7 +12,7 @@ router.get('/all', (req, res) => {
   if (!getIsApiKeyGood(req.header('x-api-key'))) {
     res.json({ error: 'nope' });
   }
-  res.json(stories)
+  res.json(stories);
 });
 
 

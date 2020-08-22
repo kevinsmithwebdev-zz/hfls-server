@@ -27,73 +27,113 @@
         ],
         "imagePath": "s3://kswd-hfls-stories/beginner/flamingo.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 2.24,
-          "end": 2.708,
-          "text": "Hola.",
-          "translation": "Hello."
+          "lects": [
+            {
+              "start": 2.24,
+              "end": 2.708,
+              "text": "Hola",
+              "translation": "Hello"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Hello."
         },
         {
-          "start": 3.314,
-          "end": 3.487,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 3.314,
+              "end": 3.487,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 3.498,
+              "end": 4.295,
+              "text": "el flamenco",
+              "translation": "the flamingo"
+            },
+            {
+              "start": 4.352,
+              "end": 4.729,
+              "text": "Fito",
+              "translation": "Fito"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am the flamingo Fito."
         },
         {
-          "start": 3.498,
-          "end": 4.295,
-          "text": "el flamenco",
-          "translation": "the flamingo"
+          "lects": [
+            {
+              "start": 5.497,
+              "end": 6.035,
+              "text": "Vuelo",
+              "translation": "I fly"
+            },
+            {
+              "start": 6.066,
+              "end": 6.581,
+              "text": "feliz",
+              "translation": "happy."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I fly happy."
         },
         {
-          "start": 4.352,
-          "end": 4.729,
-          "text": "Fito.",
-          "translation": "Fito."
+          "lects": [
+            {
+              "start": 7.324,
+              "end": 8.035,
+              "text": "Vuelo",
+              "translation": "I fly"
+            },
+            {
+              "start": 8.068,
+              "end": 8.226,
+              "text": "a",
+              "translation": "to"
+            },
+            {
+              "start": 8.22,
+              "end": 8.981,
+              "text": "Florida",
+              "translation": "Florida."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I fly to Florida."
         },
         {
-          "start": 5.497,
-          "end": 6.035,
-          "text": "Vuelo",
-          "translation": "I fly"
-        },
-        {
-          "start": 6.066,
-          "end": 6.581,
-          "text": "feliz.",
-          "translation": "happy."
-        },
-        {
-          "start": 7.324,
-          "end": 8.035,
-          "text": "Vuelo",
-          "translation": "I fly"
-        },
-        {
-          "start": 8.068,
-          "end": 8.226,
-          "text": "a",
-          "translation": "to"
-        },
-        {
-          "start": 8.22,
-          "end": 8.981,
-          "text": "Florida.",
-          "translation": "Florida."
-        },
-        {
-          "start": 9.601,
-          "end": 10.097,
-          "text": "Visito",
-          "translation": "I visit"
-        },
-        {
-          "start": 10.501,
-          "end": 11.4,
-          "text": "a mi familia.",
-          "translation": "my family.",
-          "explanation": "In Spanish the word \"a\" (English: \"to\") is added."
+          "lects": [
+            {
+              "start": 9.601,
+              "end": 10.097,
+              "text": "Visito",
+              "translation": "I visit"
+            },
+            {
+              "start": 10.501,
+              "end": 11.4,
+              "text": "a mi familia",
+              "translation": "my family.",
+              "explanation": "In Spanish the word \"a\" (English: \"to\") is added."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I visit my family."
         }
       ]
     }

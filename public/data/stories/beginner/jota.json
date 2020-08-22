@@ -28,103 +28,143 @@
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/jota.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 3.397,
-          "end": 4.336,
-          "text": "Buenas noches.",
-          "translation": "Good evening."
+          "lects": [
+            {
+              "start": 3.397,
+              "end": 4.336,
+              "text": "Buenas noches",
+              "translation": "Good evening"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Good evening."
         },
         {
-          "start": 4.875,
-          "end": 5.616,
-          "text": "Me llamo",
-          "translation": "My name is",
-          "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
+          "lects": [
+            {
+              "start": 4.875,
+              "end": 5.616,
+              "text": "Me llamo",
+              "translation": "My name is",
+              "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
+            },
+            {
+              "start": 5.768,
+              "end": 6.424,
+              "text": "Maruja",
+              "translation": "Maruja"
+            },
+            {
+              "start": 7.077,
+              "end": 7.294,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 7.294,
+              "end": 7.79,
+              "text": "soy",
+              "translation": "I am"
+            },
+            {
+              "start": 7.99,
+              "end": 8.484,
+              "text": "una",
+              "translation": "a"
+            },
+            {
+              "start": 8.528,
+              "end": 9.186,
+              "text": "bruja",
+              "translation": "witch"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "My name is Maruja and I am a witch."
         },
         {
-          "start": 5.768,
-          "end": 6.424,
-          "text": "Maruja",
-          "translation": "Maruja"
+          "lects": [
+            {
+              "start": 10.261,
+              "end": 10.961,
+              "text": "Me gusta",
+              "translation": "I like"
+            },
+            {
+              "start": 10.96,
+              "end": 11.51,
+              "text": "viajar",
+              "translation": "to fly"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I like to fly."
         },
         {
-          "start": 7.077,
-          "end": 7.294,
-          "text": "y",
-          "translation": "and"
+          "lects": [
+            {
+              "start": 12.537,
+              "end": 13.464,
+              "text": "Me gusta",
+              "translation": "I like"
+            },
+            {
+              "start": 13.493,
+              "end": 13.934,
+              "text": "mi",
+              "translation": "my"
+            },
+            {
+              "start": 13.93,
+              "end": 14.889,
+              "text": "equipaje",
+              "translation": "luggage"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I like my luggage."
         },
         {
-          "start": 7.294,
-          "end": 7.79,
-          "text": "soy",
-          "translation": "I am"
-        },
-        {
-          "start": 7.99,
-          "end": 8.484,
-          "text": "una",
-          "translation": "a"
-        },
-        {
-          "start": 8.528,
-          "end": 9.186,
-          "text": "bruja.",
-          "translation": "witch."
-        },
-        {
-          "start": 10.261,
-          "end": 10.961,
-          "text": "Me gusta",
-          "translation": "I like"
-        },
-        {
-          "start": 10.96,
-          "end": 11.51,
-          "text": "viajar.",
-          "translation": "to fly."
-        },
-        {
-          "start": 12.537,
-          "end": 13.464,
-          "text": "Me gusta",
-          "translation": "I like"
-        },
-        {
-          "start": 13.493,
-          "end": 13.934,
-          "text": "mi",
-          "translation": "my"
-        },
-        {
-          "start": 13.93,
-          "end": 14.889,
-          "text": "equipaje.",
-          "translation": "luggage."
-        },
-        {
-          "start": 15.787,
-          "end": 16.705,
-          "text": "Me gusta",
-          "translation": "I like"
-        },
-        {
-          "start": 16.7,
-          "end": 17.263,
-          "text": "beber",
-          "translation": "to drink"
-        },
-        {
-          "start": 17.374,
-          "end": 17.668,
-          "text": "mi",
-          "translation": "my"
-        },
-        {
-          "start": 17.66,
-          "end": 18.306,
-          "text": "brebaje.",
-          "translation": "potion."
+          "lects": [
+            {
+              "start": 15.787,
+              "end": 16.705,
+              "text": "Me gusta",
+              "translation": "I like"
+            },
+            {
+              "start": 16.7,
+              "end": 17.263,
+              "text": "beber",
+              "translation": "to drink"
+            },
+            {
+              "start": 17.374,
+              "end": 17.668,
+              "text": "mi",
+              "translation": "my"
+            },
+            {
+              "start": 17.66,
+              "end": 18.306,
+              "text": "brebaje",
+              "translation": "potion"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I like to drink my potion."
         }
       ]
     }

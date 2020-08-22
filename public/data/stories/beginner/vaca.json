@@ -22,103 +22,138 @@
         ],
         "imagePath": "vaca.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 4.266,
-          "end": 4.69,
-          "text": "Hoy",
-          "translation": "Today"
+          "lects": [
+            {
+              "start": 4.266,
+              "end": 4.69,
+              "text": "Hoy",
+              "translation": "Today"
+            },
+            {
+              "start": 4.992,
+              "end": 5.724,
+              "text": "es",
+              "translation": "is"
+            },
+            {
+              "start": 5.934,
+              "end": 6.674,
+              "text": "viernes",
+              "translation": "Friday.",
+              "explanation": "In Spanish, days of the week (and months) are not capitalized, unless they are the first word in a sentence or a title."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Today is Friday."
         },
         {
-          "start": 4.992,
-          "end": 5.724,
-          "text": "es",
-          "translation": "is"
+          "lects": [
+            {
+              "start": 7.634,
+              "end": 8.383,
+              "text": "Somos",
+              "translation": "We are"
+            },
+            {
+              "start": 9.27,
+              "end": 10.462,
+              "text": "la vaca",
+              "translation": "the cow"
+            },
+            {
+              "start": 10.713,
+              "end": 11.68,
+              "text": "Vanesa",
+              "translation": "Vanesa"
+            },
+            {
+              "start": 12.336,
+              "end": 12.875,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 12.986,
+              "end": 14.571,
+              "text": "la obeja",
+              "translation": "the sheep"
+            },
+            {
+              "start": 15.07,
+              "end": 15.57,
+              "text": "Violeta",
+              "translation": "Violeta"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "We are Vanesa the cow and Violeta the sheep."
         },
         {
-          "start": 5.934,
-          "end": 6.674,
-          "text": "viernes.",
-          "translation": "Friday.",
-          "explanation": "In Spanish, days of the week (and months) are not capitalized, unless they are the first word in a sentence or a title."
+          "lects": [
+            {
+              "start": 16.736,
+              "end": 18.519,
+              "text": "Nos gusta",
+              "translation": "We like"
+            },
+            {
+              "start": 18.94,
+              "end": 19.836,
+              "text": "viajar",
+              "translation": "to travel"
+            },
+            {
+              "start": 20.656,
+              "end": 21.146,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 21.715,
+              "end": 22.697,
+              "text": "volamos",
+              "translation": "we fly"
+            },
+            {
+              "start": 23.24,
+              "end": 24.679,
+              "text": "en avión",
+              "translation": "on (a) plane."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "We like to travel and we fly in a plane."
         },
         {
-          "start": 7.634,
-          "end": 8.383,
-          "text": "Somos",
-          "translation": "We are"
-        },
-        {
-          "start": 9.27,
-          "end": 10.462,
-          "text": "la vaca",
-          "translation": "the cow"
-        },
-        {
-          "start": 10.713,
-          "end": 11.68,
-          "text": "Vanesa",
-          "translation": "Vanesa"
-        },
-        {
-          "start": 12.336,
-          "end": 12.875,
-          "text": "y",
-          "translation": "and"
-        },
-        {
-          "start": 12.986,
-          "end": 14.571,
-          "text": "la obeja",
-          "translation": "the sheep"
-        },
-        {
-          "start": 15.07,
-          "end": 15.57,
-          "text": "Violeta.",
-          "translation": "Violeta"
-        },
-        {
-          "start": 16.736,
-          "end": 18.519,
-          "text": "Nos gusta",
-          "translation": "We like"
-        },
-        {
-          "start": 18.94,
-          "end": 19.836,
-          "text": "viajar",
-          "translation": "to travel"
-        },
-        {
-          "start": 20.656,
-          "end": 21.146,
-          "text": "y",
-          "translation": "and"
-        },
-        {
-          "start": 21.715,
-          "end": 22.697,
-          "text": "volamos",
-          "translation": "we fly"
-        },
-        {
-          "start": 23.24,
-          "end": 24.679,
-          "text": "en avión.",
-          "translation": "in (a) plane."
-        },
-        {
-          "start": 25.936,
-          "end": 26.855,
-          "text": "¡Vamos",
-          "translation": "Let's go"
-        },
-        {
-          "start": 26.953,
-          "end": 28.052,
-          "text": "a Venezuela!",
-          "translation": "to Venezuela!"
+          "lects": [
+            {
+              "text": "¡"
+            },
+            {
+              "start": 25.936,
+              "end": 26.855,
+              "text": "Vamos",
+              "translation": "Let's go"
+            },
+            {
+              "start": 26.953,
+              "end": 28.052,
+              "text": "a Venezuela",
+              "translation": "to Venezuela!"
+            },
+            {
+              "text": "!"
+            }
+          ],
+          "sentenceTranslation": "Let's go to Venezuela!"
         }
       ]
     }

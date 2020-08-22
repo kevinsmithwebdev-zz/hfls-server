@@ -33,103 +33,143 @@
         ],
         "imagePath": "sapo.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 5.077,
-          "end": 5.572,
-          "text": "Hola.",
-          "translation": "Hello."
+          "lects": [
+            {
+              "start": 5.077,
+              "end": 5.572,
+              "text": "Hola",
+              "translation": "Hello."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Hello."
         },
         {
-          "start": 6.274,
-          "end": 7.2,
-          "text": "Somos",
-          "translation": "We are"
+          "lects": [
+            {
+              "start": 6.274,
+              "end": 7.2,
+              "text": "Somos",
+              "translation": "We are"
+            },
+            {
+              "start": 7.498,
+              "end": 10.868,
+              "text": "el señor y la señora",
+              "translation": "Mr. and Mrs."
+            },
+            {
+              "start": 10.928,
+              "end": 11.502,
+              "text": "Sapo",
+              "translation": "Toad."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "We are Mr. and Mrs. Toad."
         },
         {
-          "start": 7.498,
-          "end": 10.868,
-          "text": "el señor y la señora",
-          "translation": "Mr. and Mrs."
+          "lects": [
+            {
+              "start": 12.839,
+              "end": 14.55,
+              "text": "Todos los días",
+              "translation": "Every day"
+            },
+            {
+              "start": 15.178,
+              "end": 15.906,
+              "text": "vemos",
+              "translation": "we watch"
+            },
+            {
+              "start": 16.251,
+              "end": 17.015,
+              "text": "salir",
+              "translation": "come out"
+            },
+            {
+              "start": 17.382,
+              "end": 18.238,
+              "text": "el sol",
+              "translation": "the sun."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Every day we the sun come out."
         },
         {
-          "start": 10.928,
-          "end": 11.502,
-          "text": "Sapo.",
-          "translation": "Toad."
+          "lects": [
+            {
+              "start": 19.526,
+              "end": 21.629,
+              "text": "Todos los días",
+              "translation": "Every day"
+            },
+            {
+              "start": 22.065,
+              "end": 24.612,
+              "text": "nos sentamos",
+              "translation": "we seat ourselves"
+            },
+            {
+              "start": 24.951,
+              "end": 26.8,
+              "text": "debajo de",
+              "translation": "under"
+            },
+            {
+              "start": 26.8,
+              "end": 28.982,
+              "text": "la sombrilla",
+              "translation": "the parasol.",
+              "explanation": "A parasol is like an umbrella, but is used to block the sun."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Every day we sit under the parasol."
         },
         {
-          "start": 12.839,
-          "end": 14.55,
-          "text": "Todos los días",
-          "translation": "Every day"
-        },
-        {
-          "start": 15.178,
-          "end": 15.906,
-          "text": "vemos",
-          "translation": "we watch"
-        },
-        {
-          "start": 16.251,
-          "end": 17.015,
-          "text": "salir",
-          "translation": "come out"
-        },
-        {
-          "start": 17.382,
-          "end": 18.238,
-          "text": "el sol.",
-          "translation": "the sun."
-        },
-        {
-          "start": 19.526,
-          "end": 21.629,
-          "text": "Todos los días",
-          "translation": "Ever day"
-        },
-        {
-          "start": 22.065,
-          "end": 24.612,
-          "text": "nos sentamos",
-          "translation": "we seat ourselves"
-        },
-        {
-          "start": 24.951,
-          "end": 26.8,
-          "text": "debajo de",
-          "translation": "under"
-        },
-        {
-          "start": 26.8,
-          "end": 28.982,
-          "text": "la sombrilla.",
-          "translation": "the parasol.",
-          "explanation": "A parasol is like an umbrella, but is used to block the sun."
-        },
-        {
-          "start": 30.163,
-          "end": 31.941,
-          "text": "Todos los días",
-          "translation": "Every day"
-        },
-        {
-          "start": 32.347,
-          "end": 33.242,
-          "text": "vemos",
-          "translation": "we watch"
-        },
-        {
-          "start": 33.564,
-          "end": 34.509,
-          "text": "el sol",
-          "translation": "the sun"
-        },
-        {
-          "start": 34.726,
-          "end": 35.6,
-          "text": "brillar.",
-          "translation": "shine."
+          "lects": [
+            {
+              "start": 30.163,
+              "end": 31.941,
+              "text": "Todos los días",
+              "translation": "Every day"
+            },
+            {
+              "start": 32.347,
+              "end": 33.242,
+              "text": "vemos",
+              "translation": "we watch"
+            },
+            {
+              "start": 33.564,
+              "end": 34.509,
+              "text": "el sol",
+              "translation": "the sun"
+            },
+            {
+              "start": 34.726,
+              "end": 35.6,
+              "text": "brillar",
+              "translation": "shine."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Every day we watch the sun shine."
         }
       ]
     }

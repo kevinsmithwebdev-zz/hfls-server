@@ -15,120 +15,152 @@
         ],
         "imagePath": "ximena.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 2.14,
-          "end": 3.154,
-          "text": "Ximena",
-          "translation": "Ximena"
+          "lects": [
+            {
+              "start": 2.14,
+              "end": 3.154,
+              "text": "Ximena",
+              "translation": "Ximena"
+            },
+            {
+              "start": 3.56,
+              "end": 3.916,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 4.044,
+              "end": 4.63,
+              "text": "su",
+              "translation": "her"
+            },
+            {
+              "start": 4.775,
+              "end": 5.428,
+              "text": "mama",
+              "translation": "mama"
+            },
+            {
+              "start": 5.998,
+              "end": 6.56,
+              "text": "van",
+              "translation": "are going"
+            },
+            {
+              "start": 6.951,
+              "end": 8.506,
+              "text": "a explorar",
+              "translation": "to explore."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Ximena and her mama are going to explore."
         },
         {
-          "start": 3.56,
-          "end": 3.916,
-          "text": "y",
-          "translation": "and"
+          "lects": [
+            {
+              "start": 9.601,
+              "end": 10.64,
+              "text": "Ximena",
+              "translation": "Ximena"
+            },
+            {
+              "start": 11.097,
+              "end": 12.439,
+              "text": "y su mama",
+              "translation": "and her mama"
+            },
+            {
+              "start": 13.242,
+              "end": 13.924,
+              "text": "toman",
+              "translation": "take"
+            },
+            {
+              "start": 14.05,
+              "end": 15.217,
+              "text": "un taxi",
+              "translation": "a taxi."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Ximena and her mama take a taxi."
         },
         {
-          "start": 4.044,
-          "end": 4.63,
-          "text": "su",
-          "translation": "her"
+          "lects": [
+            {
+              "start": 15.915,
+              "end": 16.909,
+              "text": "Ximena",
+              "translation": "e"
+            },
+            {
+              "start": 17.616,
+              "end": 17.898,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 17.89,
+              "end": 19.648,
+              "text": "su mama",
+              "translation": "her mama"
+            },
+            {
+              "start": 20.125,
+              "end": 20.762,
+              "text": "van",
+              "translation": "go"
+            },
+            {
+              "start": 20.889,
+              "end": 22.298,
+              "text": "a Mexico",
+              "translation": "to Mexico."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Ximena and her mama go to Mexico."
         },
         {
-          "start": 4.775,
-          "end": 5.428,
-          "text": "mama",
-          "translation": "mama"
-        },
-        {
-          "start": 5.998,
-          "end": 6.56,
-          "text": "van",
-          "translation": "are going"
-        },
-        {
-          "start": 6.951,
-          "end": 8.506,
-          "text": "a explorar.",
-          "translation": "to explore."
-        },
-        {
-          "start": 9.601,
-          "end": 10.64,
-          "text": "Ximena",
-          "translation": "Ximena"
-        },
-        {
-          "start": 11.097,
-          "end": 12.439,
-          "text": "y su mama",
-          "translation": "and her mama"
-        },
-        {
-          "start": 13.242,
-          "end": 13.924,
-          "text": "toman",
-          "translation": "take"
-        },
-        {
-          "start": 14.05,
-          "end": 15.217,
-          "text": "un taxi.",
-          "translation": "a taxi."
-        },
-        {
-          "start": 15.915,
-          "end": 16.909,
-          "text": "Ximena",
-          "translation": "e"
-        },
-        {
-          "start": 17.616,
-          "end": 17.898,
-          "text": "y",
-          "translation": "and"
-        },
-        {
-          "start": 17.89,
-          "end": 19.648,
-          "text": "su mama",
-          "translation": "her mama"
-        },
-        {
-          "start": 20.125,
-          "end": 20.762,
-          "text": "van",
-          "translation": "go"
-        },
-        {
-          "start": 20.889,
-          "end": 22.298,
-          "text": "a Mexico.",
-          "translation": "to Mexico."
-        },
-        {
-          "start": 23.291,
-          "end": 24.373,
-          "text": "En Mexico",
-          "translation": "In Mexico"
-        },
-        {
-          "start": 24.788,
-          "end": 25.709,
-          "text": "Ximena",
-          "translation": "Ximena"
-        },
-        {
-          "start": 26.13,
-          "end": 26.986,
-          "text": "compra",
-          "translation": "buys"
-        },
-        {
-          "start": 27.41,
-          "end": 29.164,
-          "text": "un xilófono.",
-          "translation": "a xylophone."
+          "lects": [
+            {
+              "start": 23.291,
+              "end": 24.373,
+              "text": "En Mexico",
+              "translation": "In Mexico"
+            },
+            {
+              "start": 24.788,
+              "end": 25.709,
+              "text": "Ximena",
+              "translation": "Ximena"
+            },
+            {
+              "start": 26.13,
+              "end": 26.986,
+              "text": "compra",
+              "translation": "buys"
+            },
+            {
+              "start": 27.41,
+              "end": 29.164,
+              "text": "un xilófono",
+              "translation": "a xylophone."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "En Mexico, Ximena buys a xylophone."
         }
       ]
     }

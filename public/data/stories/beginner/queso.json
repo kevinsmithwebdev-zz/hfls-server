@@ -27,157 +27,209 @@
         ],
         "imagePath": "queso.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 4.54,
-          "end": 5.071,
-          "text": "¿Qué",
-          "translation": "What"
+          "lects": [
+            {
+              "start": 4.54,
+              "end": 5.071,
+              "text": "¿Qué",
+              "translation": "What"
+            },
+            {
+              "start": 5.252,
+              "end": 5.761,
+              "text": "es",
+              "translation": "is"
+            },
+            {
+              "start": 5.82,
+              "end": 6.605,
+              "text": "esto",
+              "translation": "this"
+            },
+            {
+              "text": "?"
+            }
+          ],
+          "sentenceTranslation": "What is this?"
         },
         {
-          "start": 5.252,
-          "end": 5.761,
-          "text": "es",
-          "translation": "is"
-        },
-        {
-          "start": 5.82,
-          "end": 6.605,
-          "text": "esto?",
-          "translation": "this?"
-        },
-        {
-          "start": 7.598,
-          "end": 8.176,
-          "text": "Es",
-          "translation": "It is"
-        },
-        {
-          "start": 8.445,
-          "end": 9.387,
-          "text": "el queso.",
-          "translation": "the cheese."
+          "lects": [
+            {
+              "start": 7.598,
+              "end": 8.176,
+              "text": "Es",
+              "translation": "It is"
+            },
+            {
+              "start": 8.445,
+              "end": 9.387,
+              "text": "el queso",
+              "translation": "the cheese."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "It is the cheese."
         }
       ]
     },
     {
-      "header": {
-        "lects": [],
-        "imagePath": ""
-      },
-      "lects": [
+      "sentences": [
         {
-          "start": 10.703,
-          "end": 11.168,
-          "text": "¿Qué",
-          "translation": "What"
+          "lects": [
+            {
+              "start": 10.703,
+              "end": 11.168,
+              "text": "¿Qué",
+              "translation": "What"
+            },
+            {
+              "start": 11.32,
+              "end": 11.903,
+              "text": "es",
+              "translation": "is"
+            },
+            {
+              "start": 12.004,
+              "end": 12.925,
+              "text": "esto",
+              "translation": "this?"
+            },
+            {
+              "text": "?"
+            }
+          ],
+          "sentenceTranslation": "What is this?"
         },
         {
-          "start": 11.32,
-          "end": 11.903,
-          "text": "es",
-          "translation": "is"
-        },
-        {
-          "start": 12.004,
-          "end": 12.925,
-          "text": "esto?",
-          "translation": "this?"
-        },
-        {
-          "start": 14.181,
-          "end": 14.817,
-          "text": "Es",
-          "translation": "It is"
-        },
-        {
-          "start": 15.129,
-          "end": 16.228,
-          "text": "el quetzal.",
-          "translation": "the quetzal.",
-          "explanation": "A \"quetzal\" is a very colorful bird from Central America."
+          "lects": [
+            {
+              "start": 14.181,
+              "end": 14.817,
+              "text": "Es",
+              "translation": "It is"
+            },
+            {
+              "start": 15.129,
+              "end": 16.228,
+              "text": "el quetzal",
+              "translation": "the quetzal.",
+              "explanation": "A \"quetzal\" is a very colorful bird from Central America."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "It is the quetzal."
         }
       ]
     },
     {
-      "header": {
-        "lects": [],
-        "imagePath": ""
-      },
-      "lects": [
+      "sentences": [
         {
-          "start": 17.555,
-          "end": 17.952,
-          "text": "¿Qué",
-          "translation": "What"
+          "lects": [
+            {
+              "start": 17.555,
+              "end": 17.952,
+              "text": "¿Qué",
+              "translation": "What"
+            },
+            {
+              "start": 18.026,
+              "end": 18.491,
+              "text": "es",
+              "translation": "is"
+            },
+            {
+              "start": 18.897,
+              "end": 19.813,
+              "text": "esto",
+              "translation": "this?"
+            },
+            {
+              "text": "?"
+            }
+          ],
+          "sentenceTranslation": "What is this?"
         },
         {
-          "start": 18.026,
-          "end": 18.491,
-          "text": "es",
-          "translation": "is"
-        },
-        {
-          "start": 18.897,
-          "end": 19.813,
-          "text": "esto?",
-          "translation": "this?"
-        },
-        {
-          "start": 20.889,
-          "end": 21.583,
-          "text": "Es",
-          "translation": "It is"
-        },
-        {
-          "start": 21.98,
-          "end": 23.206,
-          "text": "el número",
-          "translation": "the number"
-        },
-        {
-          "start": 23.572,
-          "end": 24.452,
-          "text": "quince.",
-          "translation": "fifteen."
+          "lects": [
+            {
+              "start": 20.889,
+              "end": 21.583,
+              "text": "Es",
+              "translation": "It is"
+            },
+            {
+              "start": 21.98,
+              "end": 23.206,
+              "text": "el número",
+              "translation": "the number"
+            },
+            {
+              "start": 23.572,
+              "end": 24.452,
+              "text": "quince",
+              "translation": "fifteen."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "It is the number fifteen."
         }
       ]
     },
     {
-      "header": {
-        "lects": [],
-        "imagePath": ""
-      },
-      "lects": [
+      "sentences": [
         {
-          "start": 25.871,
-          "end": 26.359,
-          "text": "¿Qué",
-          "translation": "What"
+          "lects": [
+            {
+              "start": 25.871,
+              "end": 26.359,
+              "text": "¿Qué",
+              "translation": "What"
+            },
+            {
+              "start": 26.649,
+              "end": 27.196,
+              "text": "es",
+              "translation": "is"
+            },
+            {
+              "start": 27.302,
+              "end": 28.295,
+              "text": "esto",
+              "translation": "this?"
+            },
+            {
+              "text": "?"
+            }
+          ],
+          "sentenceTranslation": "What is this?"
         },
         {
-          "start": 26.649,
-          "end": 27.196,
-          "text": "es",
-          "translation": "is"
-        },
-        {
-          "start": 27.302,
-          "end": 28.295,
-          "text": "esto?",
-          "translation": "this?"
-        },
-        {
-          "start": 29.1,
-          "end": 29.668,
-          "text": "Es",
-          "translation": "It is"
-        },
-        {
-          "start": 30.017,
-          "end": 31.015,
-          "text": "la raqueta.",
-          "translation": "a racket."
+          "lects": [
+            {
+              "start": 29.1,
+              "end": 29.668,
+              "text": "Es",
+              "translation": "It is"
+            },
+            {
+              "start": 30.017,
+              "end": 31.015,
+              "text": "la raqueta",
+              "translation": "a racket."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "It is the racket?"
         }
       ]
     }

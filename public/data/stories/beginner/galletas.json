@@ -4,6 +4,55 @@
   "title": "¿Cuántas galletas quieres?",
   "paragraphs": [
     {
+      "sentences": [
+        {
+          "lects": [
+            {
+              "text": "«"
+            },
+            {
+              "start": 3.575,
+              "end": 4.08,
+              "text": "Quiero",
+              "translation": "\"I want"
+            },
+            {
+              "start": 4.08,
+              "end": 4.512,
+              "text": "una",
+              "translation": "a"
+            },
+            {
+              "start": 4.51,
+              "end": 4.986,
+              "text": "galleta»,",
+              "translation": "cookie\","
+            },
+            {
+              "start": 5.658,
+              "end": 6.328,
+              "text": "dice",
+              "translation": "says"
+            },
+            {
+              "start": 6.499,
+              "end": 6.7,
+              "text": "el",
+              "translation": "the"
+            },
+            {
+              "start": 6.7,
+              "end": 7.057,
+              "text": "ganso",
+              "translation": "goose."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "\"I want a cookie\", says the goose."
+        }
+      ],
       "header": {
         "lects": [
           {
@@ -26,175 +75,158 @@
           }
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/galletas.png"
-      },
-      "lects": [
+      }
+    },
+    {
+      "sentences": [
         {
-          "start": 3.575,
-          "end": 4.08,
-          "text": "«Quiero",
-          "translation": "\"I want"
-        },
-        {
-          "start": 4.08,
-          "end": 4.512,
-          "text": "una",
-          "translation": "a"
-        },
-        {
-          "start": 4.51,
-          "end": 4.986,
-          "text": "galleta»,",
-          "translation": "cookie\","
-        },
-        {
-          "start": 5.658,
-          "end": 6.328,
-          "text": "dice",
-          "translation": "says"
-        },
-        {
-          "start": 6.499,
-          "end": 6.7,
-          "text": "el",
-          "translation": "the"
-        },
-        {
-          "start": 6.7,
-          "end": 7.057,
-          "text": "ganso.",
-          "translation": "goose."
+          "lects": [
+            {
+              "text": "«"
+            },
+            {
+              "start": 8.071,
+              "end": 8.527,
+              "text": "Quiero",
+              "translation": "\"I want"
+            },
+            {
+              "start": 8.52,
+              "end": 8.958,
+              "text": "dos",
+              "translation": "two"
+            },
+            {
+              "start": 8.999,
+              "end": 9.791,
+              "text": "galletas»,",
+              "translation": "cookies\","
+            },
+            {
+              "start": 10.266,
+              "end": 10.937,
+              "text": "dice",
+              "translation": "says"
+            },
+            {
+              "start": 11.088,
+              "end": 11.317,
+              "text": "el",
+              "translation": "the"
+            },
+            {
+              "start": 11.333,
+              "end": 11.764,
+              "text": "gallo",
+              "translation": "rooster."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "\"I want two cookies\", says the rooster."
         }
       ]
     },
     {
-      "header": {
-        "lects": [],
-        "imagePath": ""
-      },
-      "lects": [
+      "sentences": [
         {
-          "start": 8.071,
-          "end": 8.527,
-          "text": "«Quiero",
-          "translation": "\"I want"
-        },
-        {
-          "start": 8.52,
-          "end": 8.958,
-          "text": "dos",
-          "translation": "two"
-        },
-        {
-          "start": 8.999,
-          "end": 9.791,
-          "text": "galletas»,",
-          "translation": "cookies\","
-        },
-        {
-          "start": 10.266,
-          "end": 10.937,
-          "text": "dice",
-          "translation": "says"
-        },
-        {
-          "start": 11.088,
-          "end": 11.317,
-          "text": "el",
-          "translation": "the"
-        },
-        {
-          "start": 11.333,
-          "end": 11.764,
-          "text": "gallo.",
-          "translation": "rooster."
+          "lects": [
+            {
+              "text": "«"
+            },
+            {
+              "start": 12.44,
+              "end": 12.974,
+              "text": "Quiero",
+              "translation": "\"I want"
+            },
+            {
+              "start": 12.974,
+              "end": 13.049,
+              "text": "tres",
+              "translation": "three"
+            },
+            {
+              "start": 13.426,
+              "end": 14.249,
+              "text": "galletas»,",
+              "translation": "cookies\","
+            },
+            {
+              "start": 14.669,
+              "end": 15.32,
+              "text": "dice",
+              "translation": "says"
+            },
+            {
+              "start": 15.5,
+              "end": 15.689,
+              "text": "la",
+              "translation": "the"
+            },
+            {
+              "start": 15.711,
+              "end": 16.365,
+              "text": "gallina",
+              "translation": "hen."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "\"I want three cookies\", says the hen."
         }
       ]
     },
     {
-      "header": {
-        "lects": [],
-        "imagePath": ""
-      },
-      "lects": [
+      "sentences": [
         {
-          "start": 12.44,
-          "end": 12.974,
-          "text": "«Quiero",
-          "translation": "\"I want"
-        },
-        {
-          "start": 12.974,
-          "end": 13.049,
-          "text": "tres",
-          "translation": "three"
-        },
-        {
-          "start": 13.426,
-          "end": 14.249,
-          "text": "galletas»,",
-          "translation": "cookies\","
-        },
-        {
-          "start": 14.669,
-          "end": 15.32,
-          "text": "dice",
-          "translation": "says"
-        },
-        {
-          "start": 15.5,
-          "end": 15.689,
-          "text": "la",
-          "translation": "the"
-        },
-        {
-          "start": 15.711,
-          "end": 16.365,
-          "text": "gallina.",
-          "translation": "hen."
-        }
-      ]
-    },
-    {
-      "header": {
-        "lects": [],
-        "imagePath": ""
-      },
-      "lects": [
-        {
-          "start": 17.038,
-          "end": 17.485,
-          "text": "«Quiero",
-          "translation": "\"I want"
-        },
-        {
-          "start": 17.585,
-          "end": 18.192,
-          "text": "cuatro",
-          "translation": "four"
-        },
-        {
-          "start": 18.19,
-          "end": 19.056,
-          "text": "galletas»,",
-          "translation": "cookies\","
-        },
-        {
-          "start": 19.502,
-          "end": 20.099,
-          "text": "dice",
-          "translation": "says"
-        },
-        {
-          "start": 20.115,
-          "end": 20.354,
-          "text": "el",
-          "translation": "the"
-        },
-        {
-          "start": 20.354,
-          "end": 22.34,
-          "text": "pingüino.",
-          "translation": "penguin."
+          "lects": [
+            {
+              "text": "«"
+            },
+            {
+              "start": 17.038,
+              "end": 17.485,
+              "text": "Quiero",
+              "translation": "\"I want"
+            },
+            {
+              "start": 17.585,
+              "end": 18.192,
+              "text": "cuatro",
+              "translation": "four"
+            },
+            {
+              "start": 18.19,
+              "end": 19.056,
+              "text": "galletas»,",
+              "translation": "cookies\","
+            },
+            {
+              "start": 19.502,
+              "end": 20.099,
+              "text": "dice",
+              "translation": "says"
+            },
+            {
+              "start": 20.115,
+              "end": 20.354,
+              "text": "el",
+              "translation": "the"
+            },
+            {
+              "start": 20.354,
+              "end": 22.34,
+              "text": "pingüino",
+              "translation": "penguin."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "\"I want four cookies\", says the penguin."
         }
       ]
     }

@@ -33,72 +33,112 @@
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/dinosaurio.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 2.47,
-          "end": 2.911,
-          "text": "Hola.",
-          "translation": "Hello."
+          "lects": [
+            {
+              "start": 2.47,
+              "end": 2.911,
+              "text": "Hola",
+              "translation": "Hello"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Hello."
         },
         {
-          "start": 3.415,
-          "end": 3.621,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 3.415,
+              "end": 3.621,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 3.62,
+              "end": 3.998,
+              "text": "Dino",
+              "translation": "Dino"
+            },
+            {
+              "text": ","
+            },
+            {
+              "start": 4.502,
+              "end": 5.562,
+              "text": "el dinosaurio",
+              "translation": "the dinosaur"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am Dino, the dinosaur."
         },
         {
-          "start": 3.62,
-          "end": 3.998,
-          "text": "Dino,",
-          "translation": "Dino,"
+          "lects": [
+            {
+              "start": 6.065,
+              "end": 6.644,
+              "text": "Duermo",
+              "translation": "I sleep"
+            },
+            {
+              "start": 6.64,
+              "end": 7.146,
+              "text": "de día",
+              "translation": "during the day."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I sleep during the day."
         },
         {
-          "start": 4.502,
-          "end": 4.662,
-          "text": "el",
-          "translation": "the"
+          "lects": [
+            {
+              "start": 7.887,
+              "end": 8.775,
+              "text": "En la noche",
+              "translation": "At night"
+            },
+            {
+              "start": 8.77,
+              "end": 9.825,
+              "text": "me duele diente",
+              "translation": "my tooth hurts"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "At night my tooth hurts."
         },
         {
-          "start": 4.66,
-          "end": 5.562,
-          "text": "dinosaurio.",
-          "translation": "dinosaur."
-        },
-        {
-          "start": 6.065,
-          "end": 6.644,
-          "text": "Duermo",
-          "translation": "I sleep"
-        },
-        {
-          "start": 6.64,
-          "end": 7.146,
-          "text": "de día.",
-          "translation": "during the day."
-        },
-        {
-          "start": 7.887,
-          "end": 8.775,
-          "text": "En la noche",
-          "translation": "At night"
-        },
-        {
-          "start": 8.77,
-          "end": 9.825,
-          "text": "me duele diente.",
-          "translation": "my tooth hurts."
-        },
-        {
-          "start": 10.367,
-          "end": 10.764,
-          "text": "¡Quiero",
-          "translation": "I want"
-        },
-        {
-          "start": 10.764,
-          "end": 12.76,
-          "text": "un dentista!",
-          "translation": "a dentist!"
+          "lects": [
+            {
+              "text": "¡"
+            },
+            {
+              "start": 10.367,
+              "end": 10.764,
+              "text": "Quiero",
+              "translation": "I want"
+            },
+            {
+              "start": 10.764,
+              "end": 12.76,
+              "text": "un dentista",
+              "translation": "a dentist!"
+            },
+            {
+              "text": "!"
+            }
+          ],
+          "sentenceTranslation": "I want a dentist!"
         }
       ]
     }

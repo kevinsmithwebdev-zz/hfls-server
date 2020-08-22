@@ -27,105 +27,145 @@
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/koala.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 3.626,
-          "end": 4.533,
-          "text": "Buenos días.",
-          "translation": "Good day."
+          "lects": [
+            {
+              "start": 3.626,
+              "end": 4.533,
+              "text": "Buenos días",
+              "translation": "Good day."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Good day."
         },
         {
-          "start": 5.126,
-          "end": 5.818,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 5.126,
+              "end": 5.818,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 5.962,
+              "end": 6.202,
+              "text": "el",
+              "translation": "the"
+            },
+            {
+              "start": 6.2,
+              "end": 6.834,
+              "text": "koala",
+              "translation": "koala"
+            },
+            {
+              "start": 7.043,
+              "end": 7.678,
+              "text": "Kevin",
+              "translation": "Kevin."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am the Koala Kevin."
         },
         {
-          "start": 5.962,
-          "end": 6.202,
-          "text": "el",
-          "translation": "the"
+          "lects": [
+            {
+              "start": 8.45,
+              "end": 9.103,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 9.1,
+              "end": 9.428,
+              "text": "un",
+              "translation": "a"
+            },
+            {
+              "start": 9.42,
+              "end": 10.208,
+              "text": "koala",
+              "translation": "koala"
+            },
+            {
+              "start": 10.416,
+              "end": 11.449,
+              "text": "karateka",
+              "translation": "karateka",
+              "explanation": "\"Kareteka\" is the Japanese name for someone that does karate."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am a koala karateka."
         },
         {
-          "start": 6.2,
-          "end": 6.834,
-          "text": "koala",
-          "translation": "koala"
+          "lects": [
+            {
+              "start": 12.55,
+              "end": 13.402,
+              "text": "También",
+              "translation": "Also"
+            },
+            {
+              "start": 13.9,
+              "end": 14.636,
+              "text": "toco",
+              "translation": "I play",
+              "explanation": "In Spanish, you don't \"play\" a musical instrument, you \"touch\" (tocar) it."
+            },
+            {
+              "start": 14.715,
+              "end": 15.13,
+              "text": "el",
+              "translation": "the"
+            },
+            {
+              "start": 15.402,
+              "end": 16.24,
+              "text": "ukulele",
+              "translation": "ukulele."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Also I play the ukulele."
         },
         {
-          "start": 7.043,
-          "end": 7.678,
-          "text": "Kevin.",
-          "translation": "Kevin."
-        },
-        {
-          "start": 8.45,
-          "end": 9.103,
-          "text": "Soy",
-          "translation": "I am"
-        },
-        {
-          "start": 9.1,
-          "end": 9.428,
-          "text": "un",
-          "translation": "a"
-        },
-        {
-          "start": 9.42,
-          "end": 10.208,
-          "text": "koala",
-          "translation": "koala"
-        },
-        {
-          "start": 10.416,
-          "end": 11.449,
-          "text": "karateka.",
-          "translation": "karateka",
-          "explanation": "\"Kareteka\" is the Japanese name for someone that does karate."
-        },
-        {
-          "start": 12.55,
-          "end": 13.402,
-          "text": "También",
-          "translation": "Also"
-        },
-        {
-          "start": 13.9,
-          "end": 14.636,
-          "text": "toco",
-          "translation": "I play",
-          "explanation": "In Spanish, you don't \"play\" a musical instrument, you \"touch\" (tocar) it."
-        },
-        {
-          "start": 14.715,
-          "end": 15.13,
-          "text": "el",
-          "translation": "the"
-        },
-        {
-          "start": 15.402,
-          "end": 16.24,
-          "text": "ukulele.",
-          "translation": "ukulele."
-        },
-        {
-          "start": 17.018,
-          "end": 18.244,
-          "text": "Me gustan",
-          "translation": "I like"
-        },
-        {
-          "start": 18.341,
-          "end": 19.191,
-          "text": "mucho",
-          "translation": "a lot"
-        },
-        {
-          "start": 19.19,
-          "end": 19.573,
-          "text": "los kiwis.",
-          "translation": "kiwi.",
-          "explanation": "Spanish uses the plural with \"the\" to refer to kiwi in general."
+          "lects": [
+            {
+              "start": 17.018,
+              "end": 18.244,
+              "text": "Me gustan",
+              "translation": "I like"
+            },
+            {
+              "start": 18.341,
+              "end": 19.191,
+              "text": "mucho",
+              "translation": "a lot"
+            },
+            {
+              "start": 19.19,
+              "end": 19.573,
+              "text": "los kiwis",
+              "translation": "kiwi.",
+              "explanation": "Spanish uses the plural with \"the\" to refer to kiwi in general."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I like kiwi a lot."
         }
       ]
     }

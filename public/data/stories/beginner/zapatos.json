@@ -21,126 +21,169 @@
         ],
         "imagePath": "zapatos.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 5.356,
-          "end": 6.473,
-          "text": "Buenos días.",
-          "translation": "Good day."
+          "lects": [
+            {
+              "start": 5.356,
+              "end": 6.473,
+              "text": "Buenos días",
+              "translation": "Good day."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Good day."
         },
         {
-          "start": 7.002,
-          "end": 7.668,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 7.002,
+              "end": 7.668,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 8.189,
+              "end": 10.008,
+              "text": "el zapatero",
+              "translation": "the shoemaker"
+            },
+            {
+              "start": 10.264,
+              "end": 11.262,
+              "text": "Zacarías",
+              "translation": "Zechariah,"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am Zechariah the shoemaker."
         },
         {
-          "start": 8.189,
-          "end": 10.008,
-          "text": "el zapatero",
-          "translation": "the shoemaker"
+          "lects": [
+            {
+              "start": 12.259,
+              "end": 13.121,
+              "text": "Tengo",
+              "translation": "I have"
+            },
+            {
+              "start": 13.232,
+              "end": 13.887,
+              "text": "tres",
+              "translation": "three"
+            },
+            {
+              "start": 14.053,
+              "end": 14.768,
+              "text": "gatos",
+              "translation": "cats:"
+            },
+            {
+              "text": ":"
+            },
+            {
+              "start": 15.601,
+              "end": 16.514,
+              "text": "Zaus,",
+              "translation": "Zaus"
+            },
+            {
+              "start": 17.002,
+              "end": 17.728,
+              "text": "Zaíd,",
+              "translation": "Zaíd,"
+            },
+            {
+              "start": 18.419,
+              "end": 18.924,
+              "text": "y",
+              "translation": "y"
+            },
+            {
+              "start": 19.299,
+              "end": 19.967,
+              "text": "Zeki",
+              "translation": "Zeki."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I have three cats: Zaus, Zaíd, and Zeki"
         },
         {
-          "start": 10.264,
-          "end": 11.262,
-          "text": "Zacarías.",
-          "translation": "Zechariah,"
+          "lects": [
+            {
+              "start": 21.214,
+              "end": 21.888,
+              "text": "Hago",
+              "translation": "I make"
+            },
+            {
+              "start": 21.913,
+              "end": 22.979,
+              "text": "zapatos",
+              "translation": "shoes"
+            },
+            {
+              "start": 23.422,
+              "end": 24.084,
+              "text": "para",
+              "translation": "for"
+            },
+            {
+              "start": 24.468,
+              "end": 25.118,
+              "text": "mis",
+              "translation": "my"
+            },
+            {
+              "start": 25.431,
+              "end": 26.271,
+              "text": "gatos",
+              "translation": "cats."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I make shoes for my cats."
         },
         {
-          "start": 12.259,
-          "end": 13.121,
-          "text": "Tengo",
-          "translation": "I have"
-        },
-        {
-          "start": 13.232,
-          "end": 13.887,
-          "text": "tres",
-          "translation": "three"
-        },
-        {
-          "start": 14.053,
-          "end": 14.768,
-          "text": "gatos:",
-          "translation": "cats:"
-        },
-        {
-          "start": 15.601,
-          "end": 16.514,
-          "text": "Zaus,",
-          "translation": "Zaus"
-        },
-        {
-          "start": 17.002,
-          "end": 17.728,
-          "text": "Zaíd,",
-          "translation": "Zaíd,"
-        },
-        {
-          "start": 18.419,
-          "end": 18.924,
-          "text": "y",
-          "translation": "y"
-        },
-        {
-          "start": 19.299,
-          "end": 19.967,
-          "text": "Zeki.",
-          "translation": "Zeki."
-        },
-        {
-          "start": 21.214,
-          "end": 21.888,
-          "text": "Hago",
-          "translation": "I make"
-        },
-        {
-          "start": 21.913,
-          "end": 22.979,
-          "text": "zapatos",
-          "translation": "shoes"
-        },
-        {
-          "start": 23.422,
-          "end": 24.084,
-          "text": "para",
-          "translation": "for"
-        },
-        {
-          "start": 24.468,
-          "end": 25.118,
-          "text": "mis",
-          "translation": "my"
-        },
-        {
-          "start": 25.431,
-          "end": 26.271,
-          "text": "gatos.",
-          "translation": "cats."
-        },
-        {
-          "start": 27.291,
-          "end": 28.84,
-          "text": "Mis gatos",
-          "translation": "My cats"
-        },
-        {
-          "start": 29.404,
-          "end": 30.677,
-          "text": "zapatean",
-          "translation": "stamp their feet"
-        },
-        {
-          "start": 30.956,
-          "end": 31.665,
-          "text": "con",
-          "translation": "with"
-        },
-        {
-          "start": 31.675,
-          "end": 33.678,
-          "text": "sus zapatos.",
-          "translation": "their shoes."
+          "lects": [
+            {
+              "start": 27.291,
+              "end": 28.84,
+              "text": "Mis gatos",
+              "translation": "My cats"
+            },
+            {
+              "start": 29.404,
+              "end": 30.677,
+              "text": "zapatean",
+              "translation": "stamp their feet"
+            },
+            {
+              "start": 30.956,
+              "end": 31.665,
+              "text": "con",
+              "translation": "with"
+            },
+            {
+              "start": 31.675,
+              "end": 33.678,
+              "text": "sus zapatos",
+              "translation": "their shoes."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "My cats stamp their feet with their shoes."
         }
       ]
     }

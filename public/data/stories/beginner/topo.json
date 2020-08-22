@@ -15,162 +15,202 @@
         ],
         "imagePath": "topo.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 3.469,
-          "end": 3.982,
-          "text": "Hola.",
-          "translation": "Hello."
+          "lects": [
+            {
+              "start": 3.469,
+              "end": 3.982,
+              "text": "Hola",
+              "translation": "Hello."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Hello."
         },
         {
-          "start": 4.555,
-          "end": 5.346,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 4.555,
+              "end": 5.346,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 5.616,
+              "end": 5.929,
+              "text": "el",
+              "translation": "the"
+            },
+            {
+              "start": 5.92,
+              "end": 6.666,
+              "text": "topo",
+              "translation": "mole"
+            },
+            {
+              "start": 7.178,
+              "end": 7.787,
+              "text": "Tino",
+              "translation": "Tino"
+            },
+            {
+              "start": 8.602,
+              "end": 9.012,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 9.849,
+              "end": 11.404,
+              "text": "me gusta",
+              "translation": "I like"
+            },
+            {
+              "start": 11.905,
+              "end": 12.548,
+              "text": "tejer",
+              "translation": "to knit."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am Tino the mole and I like to knit."
         },
         {
-          "start": 5.616,
-          "end": 5.929,
-          "text": "el",
-          "translation": "the"
+          "lects": [
+            {
+              "start": 13.807,
+              "end": 14.726,
+              "text": "Tejo",
+              "translation": "I knit"
+            },
+            {
+              "start": 15.253,
+              "end": 17.247,
+              "text": "una chaqueta",
+              "translation": "a jacket"
+            },
+            {
+              "start": 17.869,
+              "end": 18.574,
+              "text": "para",
+              "translation": "for"
+            },
+            {
+              "start": 18.57,
+              "end": 19.518,
+              "text": "mi",
+              "translation": "my"
+            },
+            {
+              "start": 19.711,
+              "end": 20.656,
+              "text": "amigo",
+              "translation": "friend"
+            },
+            {
+              "start": 20.981,
+              "end": 21.608,
+              "text": "Toro",
+              "translation": "Bull."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I knit a jacket for my friend Bull."
         },
         {
-          "start": 5.92,
-          "end": 6.666,
-          "text": "topo",
-          "translation": "mole"
+          "lects": [
+            {
+              "start": 22.853,
+              "end": 23.652,
+              "text": "Tejo",
+              "translation": "I knit"
+            },
+            {
+              "start": 24.127,
+              "end": 26.053,
+              "text": "una corbata",
+              "translation": "a scarf"
+            },
+            {
+              "start": 26.878,
+              "end": 27.622,
+              "text": "para",
+              "translation": "for"
+            },
+            {
+              "start": 28.014,
+              "end": 28.569,
+              "text": "mi",
+              "translation": "my"
+            },
+            {
+              "start": 28.659,
+              "end": 29.676,
+              "text": "amigo",
+              "translation": "friend"
+            },
+            {
+              "start": 30.022,
+              "end": 30.653,
+              "text": "Tucán",
+              "translation": "Toucan"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I knit a scarf for my friend Toucan."
         },
         {
-          "start": 7.178,
-          "end": 7.787,
-          "text": "Tino",
-          "translation": "Tino"
-        },
-        {
-          "start": 8.602,
-          "end": 9.012,
-          "text": "y",
-          "translation": "and"
-        },
-        {
-          "start": 9.849,
-          "end": 11.404,
-          "text": "me gusta",
-          "translation": "I like"
-        },
-        {
-          "start": 11.905,
-          "end": 12.548,
-          "text": "tejer.",
-          "translation": "to knit."
-        },
-        {
-          "start": 13.807,
-          "end": 14.726,
-          "text": "Tejo",
-          "translation": "I knit"
-        },
-        {
-          "start": 15.253,
-          "end": 17.247,
-          "text": "una chaqueta",
-          "translation": "a jacket"
-        },
-        {
-          "start": 17.869,
-          "end": 18.574,
-          "text": "para",
-          "translation": "for"
-        },
-        {
-          "start": 18.57,
-          "end": 19.518,
-          "text": "mi",
-          "translation": "my"
-        },
-        {
-          "start": 19.711,
-          "end": 20.656,
-          "text": "amigo",
-          "translation": "friend"
-        },
-        {
-          "start": 20.981,
-          "end": 21.608,
-          "text": "Toro.",
-          "translation": "Bull."
-        },
-        {
-          "start": 22.853,
-          "end": 23.652,
-          "text": "Tejo",
-          "translation": "I knit"
-        },
-        {
-          "start": 24.127,
-          "end": 26.053,
-          "text": "una corbata",
-          "translation": "a scarf"
-        },
-        {
-          "start": 26.878,
-          "end": 27.622,
-          "text": "para",
-          "translation": "for"
-        },
-        {
-          "start": 28.014,
-          "end": 28.569,
-          "text": "mi",
-          "translation": "my"
-        },
-        {
-          "start": 28.659,
-          "end": 29.676,
-          "text": "amigo",
-          "translation": "friend"
-        },
-        {
-          "start": 30.022,
-          "end": 30.653,
-          "text": "Tucán.",
-          "translation": "Toucan"
-        },
-        {
-          "start": 31.903,
-          "end": 32.796,
-          "text": "Tejo",
-          "translation": "I knit"
-        },
-        {
-          "start": 33.226,
-          "end": 35.314,
-          "text": "un pantalón",
-          "translation": "some pants"
-        },
-        {
-          "start": 36.204,
-          "end": 36.902,
-          "text": "para",
-          "translation": "for"
-        },
-        {
-          "start": 37.435,
-          "end": 38.089,
-          "text": "mi",
-          "translation": "my"
-        },
-        {
-          "start": 38.434,
-          "end": 39.565,
-          "text": "amigo",
-          "translation": "friend"
-        },
-        {
-          "start": 39.978,
-          "end": 40.909,
-          "text": "Tortuga.",
-          "translation": "Turtle."
+          "lects": [
+            {
+              "start": 31.903,
+              "end": 32.796,
+              "text": "Tejo",
+              "translation": "I knit"
+            },
+            {
+              "start": 33.226,
+              "end": 35.314,
+              "text": "un pantalón",
+              "translation": "some pants"
+            },
+            {
+              "start": 36.204,
+              "end": 36.902,
+              "text": "para",
+              "translation": "for"
+            },
+            {
+              "start": 37.435,
+              "end": 38.089,
+              "text": "mi",
+              "translation": "my"
+            },
+            {
+              "start": 38.434,
+              "end": 39.565,
+              "text": "amigo",
+              "translation": "friend"
+            },
+            {
+              "start": 39.978,
+              "end": 40.909,
+              "text": "Tortuga",
+              "translation": "Turtle."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I knit some pants for my friend Turtle."
         }
       ]
     }

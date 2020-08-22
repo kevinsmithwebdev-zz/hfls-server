@@ -15,114 +15,152 @@
         ],
         "imagePath": "enye.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 2.297,
-          "end": 2.922,
-          "text": "Es",
-          "translation": "It is"
+          "lects": [
+            {
+              "start": 2.297,
+              "end": 2.922,
+              "text": "Es",
+              "translation": "It is"
+            },
+            {
+              "start": 3.245,
+              "end": 5.023,
+              "text": "una mañana",
+              "translation": "a morning"
+            },
+            {
+              "start": 5.645,
+              "end": 7.196,
+              "text": "de otoño",
+              "translation": "of fall (autumn)"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "It is a fall morning."
         },
         {
-          "start": 3.245,
-          "end": 5.023,
-          "text": "una mañana",
-          "translation": "a morning"
+          "lects": [
+            {
+              "start": 7.977,
+              "end": 9.02,
+              "text": "La niña",
+              "translation": "The girl"
+            },
+            {
+              "text": ","
+            },
+            {
+              "start": 9.52,
+              "end": 10.643,
+              "text": "Armiña",
+              "translation": "Armiña"
+            },
+            {
+              "text": ","
+            },
+            {
+              "start": 11.276,
+              "end": 11.988,
+              "text": "juega",
+              "translation": "plays"
+            },
+            {
+              "start": 12.483,
+              "end": 13.141,
+              "text": "con",
+              "translation": "with"
+            },
+            {
+              "start": 13.456,
+              "end": 13.996,
+              "text": "su",
+              "translation": "her"
+            },
+            {
+              "start": 14.377,
+              "end": 15.291,
+              "text": "muñeca",
+              "translation": "doll"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "The girl, Armiña, plays with her doll."
         },
         {
-          "start": 5.645,
-          "end": 7.196,
-          "text": "de otoño.",
-          "translation": "of fall (autumn)."
+          "lects": [
+            {
+              "start": 16.364,
+              "end": 17.624,
+              "text": "Armiña",
+              "translation": "Armiña"
+            },
+            {
+              "start": 18.337,
+              "end": 19.235,
+              "text": "vive",
+              "translation": "lives"
+            },
+            {
+              "start": 19.805,
+              "end": 20.439,
+              "text": "en",
+              "translation": "in"
+            },
+            {
+              "start": 20.821,
+              "end": 21.6,
+              "text": "una",
+              "translation": "a"
+            },
+            {
+              "start": 22.137,
+              "end": 23.128,
+              "text": "cabaña",
+              "translation": "cabin"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Armiña lives in a cabin."
         },
         {
-          "start": 7.977,
-          "end": 9.02,
-          "text": "La niña,",
-          "translation": "The girl"
-        },
-        {
-          "start": 9.52,
-          "end": 10.643,
-          "text": "Armiña,",
-          "translation": "Armiña,"
-        },
-        {
-          "start": 11.276,
-          "end": 11.988,
-          "text": "juega",
-          "translation": "plays"
-        },
-        {
-          "start": 12.483,
-          "end": 13.141,
-          "text": "con",
-          "translation": "with"
-        },
-        {
-          "start": 13.456,
-          "end": 13.996,
-          "text": "su",
-          "translation": "her"
-        },
-        {
-          "start": 14.377,
-          "end": 15.291,
-          "text": "muñeca.",
-          "translation": "doll."
-        },
-        {
-          "start": 16.364,
-          "end": 17.624,
-          "text": "Armiña",
-          "translation": "Armiña"
-        },
-        {
-          "start": 18.337,
-          "end": 19.235,
-          "text": "vive",
-          "translation": "lives"
-        },
-        {
-          "start": 19.805,
-          "end": 20.439,
-          "text": "en",
-          "translation": "in"
-        },
-        {
-          "start": 20.821,
-          "end": 21.6,
-          "text": "una",
-          "translation": "a"
-        },
-        {
-          "start": 22.137,
-          "end": 23.128,
-          "text": "cabaña.",
-          "translation": "cabin."
-        },
-        {
-          "start": 24.192,
-          "end": 24.648,
-          "text": "La",
-          "translation": "The"
-        },
-        {
-          "start": 24.702,
-          "end": 25.745,
-          "text": "cabaña",
-          "translation": "cabin"
-        },
-        {
-          "start": 26.341,
-          "end": 27.248,
-          "text": "está",
-          "translation": "is"
-        },
-        {
-          "start": 27.893,
-          "end": 30.77,
-          "text": "en una montaña.",
-          "translation": "on a mountain."
+          "lects": [
+            {
+              "start": 24.192,
+              "end": 24.648,
+              "text": "La",
+              "translation": "The"
+            },
+            {
+              "start": 24.702,
+              "end": 25.745,
+              "text": "cabaña",
+              "translation": "cabin"
+            },
+            {
+              "start": 26.341,
+              "end": 27.248,
+              "text": "está",
+              "translation": "is"
+            },
+            {
+              "start": 27.893,
+              "end": 30.77,
+              "text": "en una montaña",
+              "translation": "on a mountain"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "The cabin is on a mountain."
         }
       ]
     }

@@ -7,20 +7,20 @@
       "header": {
         "lects": [
           {
-            "start": 0.380,
-            "end": 0.640,
+            "start": 0.38,
+            "end": 0.64,
             "text": "La",
             "translation": "The"
           },
           {
-            "start": 0.640,
-            "end": 1.480,
+            "start": 0.64,
+            "end": 1.48,
             "text": "cucaracha",
             "translation": "Cockroach"
           },
           {
-            "start": 1.480,
-            "end": 2.140,
+            "start": 1.48,
+            "end": 2.14,
             "text": "colorada",
             "translation": "Red",
             "explanation": "Notice that the adjective comes last."
@@ -28,90 +28,130 @@
         ],
         "imagePath": "cucracha.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 2.98,
-          "end": 3.6,
-          "text": "Hola.",
-          "translation": "Hello."
+          "lects": [
+            {
+              "start": 2.98,
+              "end": 3.6,
+              "text": "Hola",
+              "translation": "Hello"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Hello."
         },
         {
-          "start": 3.7,
-          "end": 4,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 3.7,
+              "end": 4,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 4,
+              "end": 4.115,
+              "text": "la",
+              "translation": "the"
+            },
+            {
+              "start": 4.115,
+              "end": 4.14,
+              "text": "cucaracha",
+              "translation": "cockroach"
+            },
+            {
+              "start": 4.84,
+              "end": 5.355,
+              "text": "Camila",
+              "translation": "Camila"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am the cockroach Camila."
         },
         {
-          "start": 4,
-          "end": 4.115,
-          "text": "la",
-          "translation": "the"
+          "lects": [
+            {
+              "start": 6.135,
+              "end": 6.185,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 6.185,
+              "end": 6.4,
+              "text": "colorada",
+              "translation": "red"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am red."
         },
         {
-          "start": 4.115,
-          "end": 4.14,
-          "text": "cucaracha",
-          "translation": "cockroach"
+          "lects": [
+            {
+              "start": 7.93,
+              "end": 8.325,
+              "text": "Como",
+              "translation": "I eat"
+            },
+            {
+              "start": 8.32,
+              "end": 8.705,
+              "text": "muchos",
+              "translation": "a lot (of)"
+            },
+            {
+              "start": 8.755,
+              "end": 9.565,
+              "text": "caramelos",
+              "translation": "candies."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I eat a lot (of) candies."
         },
         {
-          "start": 4.84,
-          "end": 5.355,
-          "text": "Camila.",
-          "translation": "Camila."
-        },
-        {
-          "start": 6.135,
-          "end": 6.185,
-          "text": "Soy",
-          "translation": "I am"
-        },
-        {
-          "start": 6.185,
-          "end": 6.4,
-          "text": "colorada.",
-          "translation": "red."
-        },
-        {
-          "start": 7.93,
-          "end": 8.325,
-          "text": "Como",
-          "translation": "I eat"
-        },
-        {
-          "start": 8.32,
-          "end": 8.705,
-          "text": "muchos",
-          "translation": "a lot (of)"
-        },
-        {
-          "start": 8.755,
-          "end": 9.565,
-          "text": "caramelos.",
-          "translation": "candies."
-        },
-        {
-          "start": 10.117,
-          "end": 10.297,
-          "text": "Mi",
-          "translation": "My"
-        },
-        {
-          "start": 10.29,
-          "end": 10.754,
-          "text": "mamá",
-          "translation": "mother"
-        },
-        {
-          "start": 10.94,
-          "end": 11.742,
-          "text": "no está",
-          "translation": "is not"
-        },
-        {
-          "start": 11.742,
-          "end": 12.448,
-          "text": "contenta.",
-          "translation": "happy."
+          "lects": [
+            {
+              "start": 10.117,
+              "end": 10.297,
+              "text": "Mi",
+              "translation": "My"
+            },
+            {
+              "start": 10.29,
+              "end": 10.754,
+              "text": "mamá",
+              "translation": "mother"
+            },
+            {
+              "start": 10.94,
+              "end": 11.742,
+              "text": "no está",
+              "translation": "is not"
+            },
+            {
+              "start": 11.742,
+              "end": 12.448,
+              "text": "contenta",
+              "translation": "happy"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "My mother is not happy."
         }
       ]
     }

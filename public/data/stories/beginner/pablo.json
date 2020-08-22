@@ -15,96 +15,120 @@
         ],
         "imagePath": "pablo.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 3.500,
-          "end": 5.000,
-          "text": "Pablo Picasso",
-          "translation": "Pablo Picasso"
+          "lects": [
+            {
+              "start": 3.5,
+              "end": 5,
+              "text": "Pablo Picasso",
+              "translation": "Pablo Picasso"
+            },
+            {
+              "start": 6.365,
+              "end": 7.774,
+              "text": "el pintor",
+              "translation": "the painter"
+            },
+            {
+              "start": 8.577,
+              "end": 9.227,
+              "text": "pinta",
+              "translation": "paints"
+            },
+            {
+              "start": 9.583,
+              "end": 10.532,
+              "text": "flores",
+              "translation": "flowers."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Pablo Picasso the painter paints flowers."
         },
         {
-          "start": 6.365,
-          "end": 7.774,
-          "text": "el pintor,",
-          "translation": "the painter"
+          "lects": [
+            {
+              "start": 11.662,
+              "end": 13.826,
+              "text": "Pablo Picasso,",
+              "translation": "Pablo Picasso"
+            },
+            {
+              "start": 14.378,
+              "end": 15.582,
+              "text": "el pintor,",
+              "translation": "the painter"
+            },
+            {
+              "start": 16.145,
+              "end": 17.133,
+              "text": "pinta",
+              "translation": "paints"
+            },
+            {
+              "start": 17.431,
+              "end": 18.396,
+              "text": "camellos",
+              "translation": "camels"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Pablo Picasso the painter paints camels."
         },
         {
-          "start": 8.577,
-          "end": 9.227,
-          "text": "pinta",
-          "translation": "paints"
-        },
-        {
-          "start": 9.583,
-          "end": 10.532,
-          "text": "flores.",
-          "translation": "flowers."
-        },
-        {
-          "start": 11.662,
-          "end": 13.826,
-          "text": "Pablo Picasso,",
-          "translation": "Pablo Picasso"
-        },
-        {
-          "start": 14.378,
-          "end": 15.582,
-          "text": "el pintor,",
-          "translation": "the painter"
-        },
-        {
-          "start": 16.145,
-          "end": 17.133,
-          "text": "pinta",
-          "translation": "paints"
-        },
-        {
-          "start": 17.431,
-          "end": 18.396,
-          "text": "camellos.",
-          "translation": "camels"
-        },
-        {
-          "start": 19.495,
-          "end": 21.604,
-          "text": "Pablo Picasso,",
-          "translation": "Pablo Picasso"
-        },
-        {
-          "start": 22.12,
-          "end": 23.178,
-          "text": "el pintor,",
-          "translation": "the painter"
-        },
-        {
-          "start": 23.822,
-          "end": 24.671,
-          "text": "pinta",
-          "translation": "paints"
-        },
-        {
-          "start": 24.897,
-          "end": 25.701,
-          "text": "perros,",
-          "translation": "dogs,"
-        },
-        {
-          "start": 26.23,
-          "end": 27.513,
-          "text": "pingüinos,",
-          "translation": "penguins,"
-        },
-        {
-          "start": 27.872,
-          "end": 28.308,
-          "text": "y",
-          "translation": "and"
-        },
-        {
-          "start": 28.708,
-          "end": 29.808,
-          "text": "palomas.",
-          "translation": "doves."
+          "lects": [
+            {
+              "start": 19.495,
+              "end": 21.604,
+              "text": "Pablo Picasso,",
+              "translation": "Pablo Picasso"
+            },
+            {
+              "start": 22.12,
+              "end": 23.178,
+              "text": "el pintor,",
+              "translation": "the painter"
+            },
+            {
+              "start": 23.822,
+              "end": 24.671,
+              "text": "pinta",
+              "translation": "paints"
+            },
+            {
+              "start": 24.897,
+              "end": 25.701,
+              "text": "perros,",
+              "translation": "dogs,"
+            },
+            {
+              "start": 26.23,
+              "end": 27.513,
+              "text": "pingüinos,",
+              "translation": "penguins,"
+            },
+            {
+              "start": 27.872,
+              "end": 28.308,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 28.708,
+              "end": 29.808,
+              "text": "palomas",
+              "translation": "doves."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Pablo Picasso the painter paints dogs, penguins, and doves."
         }
       ]
     }

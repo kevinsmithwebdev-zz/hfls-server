@@ -39,79 +39,111 @@
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/lobo.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 3.338,
-          "end": 4.044,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 3.338,
+              "end": 4.044,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 4.04,
+              "end": 4.22,
+              "text": "el",
+              "translation": "the"
+            },
+            {
+              "start": 4.22,
+              "end": 4.568,
+              "text": "lobo",
+              "translation": "wolf."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am the wolf."
         },
         {
-          "start": 4.04,
-          "end": 4.22,
-          "text": "el",
-          "translation": "the"
+          "lects": [
+            {
+              "start": 5.738,
+              "end": 6.411,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 6.41,
+              "end": 6.657,
+              "text": "la",
+              "translation": "the"
+            },
+            {
+              "start": 6.657,
+              "end": 7.15,
+              "text": "luna",
+              "translation": "moon."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am the moon."
         },
         {
-          "start": 4.22,
-          "end": 4.568,
-          "text": "lobo.",
-          "translation": "wolf."
+          "lects": [
+            {
+              "start": 8.031,
+              "end": 8.826,
+              "text": "Subo",
+              "translation": "I go up"
+            },
+            {
+              "start": 8.896,
+              "end": 9.278,
+              "text": "a la",
+              "translation": "on the"
+            },
+            {
+              "start": 9.278,
+              "end": 9.77,
+              "text": "loma",
+              "translation": "hill."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I go up the hill."
         },
         {
-          "start": 5.738,
-          "end": 6.411,
-          "text": "Soy",
-          "translation": "I am"
-        },
-        {
-          "start": 6.41,
-          "end": 6.657,
-          "text": "la",
-          "translation": "the"
-        },
-        {
-          "start": 6.657,
-          "end": 7.15,
-          "text": "luna.",
-          "translation": "moon."
-        },
-        {
-          "start": 8.031,
-          "end": 8.826,
-          "text": "Subo",
-          "translation": "I go up"
-        },
-        {
-          "start": 8.896,
-          "end": 9.278,
-          "text": "a la",
-          "translation": "on the"
-        },
-        {
-          "start": 9.278,
-          "end": 9.77,
-          "text": "loma.",
-          "translation": "hill."
-        },
-        {
-          "start": 10.55,
-          "end": 11.604,
-          "text": "Aúllo",
-          "translation": "I howl",
-          "explanation": "\"Aúllo\" is an onomatopoeia. Doesn't it sound like a howl? Try tilting you head back and yelling it at the moon."
-        },
-        {
-          "start": 11.807,
-          "end": 12.151,
-          "text": "a la",
-          "translation": "at the"
-        },
-        {
-          "start": 12.151,
-          "end": 12.65,
-          "text": "luna.",
-          "translation": "moon."
+          "lects": [
+            {
+              "start": 10.55,
+              "end": 11.604,
+              "text": "Aúllo",
+              "translation": "I howl",
+              "explanation": "\"Aúllo\" is an onomatopoeia. Doesn't it sound like a howl? Try tilting you head back and yelling it at the moon."
+            },
+            {
+              "start": 11.807,
+              "end": 12.151,
+              "text": "a la",
+              "translation": "at the"
+            },
+            {
+              "start": 12.151,
+              "end": 12.65,
+              "text": "luna",
+              "translation": "moon."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I howl and the moon."
         }
       ]
     }

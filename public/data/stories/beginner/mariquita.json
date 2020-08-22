@@ -27,121 +27,161 @@
         ],
         "imagePath": "https://kswd-hfls-stories.s3-us-west-1.amazonaws.com/beginner/mariquita.png"
       },
-      "lects": [
+      "sentences": [
         {
-          "start": 3.066,
-          "end": 3.537,
-          "text": "Hola.",
-          "translation": "Hello."
+          "lects": [
+            {
+              "start": 3.066,
+              "end": 3.537,
+              "text": "Hola",
+              "translation": "Hello."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "Hello."
         },
         {
-          "start": 4.125,
-          "end": 4.607,
-          "text": "Soy",
-          "translation": "I am"
+          "lects": [
+            {
+              "start": 4.125,
+              "end": 4.607,
+              "text": "Soy",
+              "translation": "I am"
+            },
+            {
+              "start": 4.6,
+              "end": 4.948,
+              "text": "una",
+              "translation": "a"
+            },
+            {
+              "start": 4.94,
+              "end": 5.893,
+              "text": "mariquita",
+              "translation": "ladybug"
+            },
+            {
+              "start": 6.192,
+              "end": 6.388,
+              "text": "y",
+              "translation": "and"
+            },
+            {
+              "start": 6.38,
+              "end": 7.113,
+              "text": "me llamo",
+              "translation": "my name is",
+              "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
+            },
+            {
+              "start": 7.332,
+              "end": 7.854,
+              "text": "Mika",
+              "translation": "Mika."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I am a ladybug and my name is Mika."
         },
         {
-          "start": 4.6,
-          "end": 4.948,
-          "text": "una",
-          "translation": "a"
+          "lects": [
+            {
+              "start": 8.912,
+              "end": 9.761,
+              "text": "Vuelo",
+              "translation": "I fly"
+            },
+            {
+              "start": 9.988,
+              "end": 10.187,
+              "text": "a",
+              "translation": "to"
+            },
+            {
+              "start": 10.18,
+              "end": 10.78,
+              "text": "una",
+              "translation": "a"
+            },
+            {
+              "start": 10.935,
+              "end": 11.97,
+              "text": "margarita",
+              "translation": "daisy."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I fly to a daisy."
         },
         {
-          "start": 4.94,
-          "end": 5.893,
-          "text": "mariquita",
-          "translation": "ladybug"
+          "lects": [
+            {
+              "start": 12.69,
+              "end": 13.745,
+              "text": "Vuelo",
+              "translation": "I fly"
+            },
+            {
+              "start": 13.941,
+              "end": 14.24,
+              "text": "a",
+              "translation": "to"
+            },
+            {
+              "start": 14.24,
+              "end": 14.868,
+              "text": "una",
+              "translation": "a"
+            },
+            {
+              "start": 15.36,
+              "end": 16.279,
+              "text": "mesa",
+              "translation": "table."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I fly to a table."
         },
         {
-          "start": 6.192,
-          "end": 6.388,
-          "text": "y",
-          "translation": "and"
-        },
-        {
-          "start": 6.38,
-          "end": 7.113,
-          "text": "me llamo",
-          "translation": "my name is",
-          "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
-        },
-        {
-          "start": 7.332,
-          "end": 7.854,
-          "text": "Mika.",
-          "translation": "Mika."
-        },
-        {
-          "start": 8.912,
-          "end": 9.761,
-          "text": "Vuelo",
-          "translation": "I fly"
-        },
-        {
-          "start": 9.988,
-          "end": 10.187,
-          "text": "a",
-          "translation": "to"
-        },
-        {
-          "start": 10.18,
-          "end": 10.78,
-          "text": "una",
-          "translation": "a"
-        },
-        {
-          "start": 10.935,
-          "end": 11.97,
-          "text": "margarita.",
-          "translation": "daisy."
-        },
-        {
-          "start": 12.69,
-          "end": 13.745,
-          "text": "Vuelo",
-          "translation": "I fly"
-        },
-        {
-          "start": 13.941,
-          "end": 14.24,
-          "text": "a",
-          "translation": "to"
-        },
-        {
-          "start": 14.24,
-          "end": 14.868,
-          "text": "una",
-          "translation": "a"
-        },
-        {
-          "start": 15.36,
-          "end": 16.279,
-          "text": "mesa.",
-          "translation": "table."
-        },
-        {
-          "start": 16.971,
-          "end": 17.905,
-          "text": "Vuelo",
-          "translation": "I fly"
-        },
-        {
-          "start": 18.359,
-          "end": 18.605,
-          "text": "a",
-          "translation": "to"
-        },
-        {
-          "start": 18.654,
-          "end": 19.35,
-          "text": "una",
-          "translation": "a"
-        },
-        {
-          "start": 19.5,
-          "end": 20.515,
-          "text": "manzana.",
-          "translation": "apple."
+          "lects": [
+            {
+              "start": 16.971,
+              "end": 17.905,
+              "text": "Vuelo",
+              "translation": "I fly"
+            },
+            {
+              "start": 18.359,
+              "end": 18.605,
+              "text": "a",
+              "translation": "to"
+            },
+            {
+              "start": 18.654,
+              "end": 19.35,
+              "text": "una",
+              "translation": "an"
+            },
+            {
+              "start": 19.5,
+              "end": 20.515,
+              "text": "manzana",
+              "translation": "apple."
+            },
+            {
+              "text": "."
+            }
+          ],
+          "sentenceTranslation": "I fly to an apple."
         }
       ]
     }
