@@ -17,7 +17,7 @@
             "end": 2.58,
             "text": "bailarín.",
             "translation": "Dancing",
-            "explanation": "\"Bailarín\" can mean either \"dancing\" or \"dancer\". Notice that if comes after \"donkey\", unlike in English."
+            "explanation": "\"Bailarín\" can mean either \"dancing\" or \"dancer\". Notice that it comes after \"donkey\", unlike in English."
           }
         ],
         "imageFilename": "burro.png"
@@ -64,7 +64,7 @@
               "end": 6.36,
               "text": "Me llamo",
               "translation": "My name is",
-              "explanation": "In Spanish, we literally say, \"I call myself\", with means \"my name is\"."
+              "explanation": "In Spanish, we literally say, \"I call myself\", which means \"my name is\"."
             },
             {
               "start": 6.36,
